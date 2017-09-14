@@ -33,13 +33,13 @@ Desktop-Client
 Wie für die herkömmlichen Cloudlösungen auch, existiert auch für Nextcloud ein Programm, mit dem Sie die Cloud auf Ihrem Rechner wie einen normalen Ordner in ihr System integrieren können.
 Nach der ersten Anmeldung an der Cloud im Browser erscheint ein Pop-up-Fenster, das Ihnen das Herunterladen eines Clients für ihr Betriebsystem anbietet. Haben Sie das Fenster zugemacht und wollen nun aber erneut die Links zu dem Download der Clients sehen, klicken Sie auf der Startseite von Owncloud auf ihren Namen (oben rechts) und wählen Sie den Bereich „Persönlich".
 
-.. image:: /bilder/kapitel10/10-1.png
+.. image:: /bilder/cloud/1.png
 
-.. image:: /bilder/kapitel10/10-2.png
+.. image:: /bilder/cloud/2.png
 
 Hier können Sie ihren persönlichen Cloud-Account konfigurieren und zum Beispiel ein  Benutzerfoto hochladen. Wenn Sie etwas nach unten scrollen, werden Sie drei Schaltflächen sehen, die sie zum Download der Desktop-Clients führen.
 
-.. image:: /bilder/kapitel10/10-3.png
+.. image:: /bilder/cloud/3.png
 
 Hier können Sie die Version des Clients wählen und im Anschluss herunterladen, die ihrem Betriebssystem entspricht. Blau hinterlegt ist der Button für das Betriebsystem, das Sie im Moment verwenden. Die Installation gestaltet sich recht einfach. Sie müssen nach der Installation nur die URL der Cloud eintragen https://owncloud.copernicus-gymnasium.de/owncloud und ihre Zugangsdaten angeben.
 
@@ -65,7 +65,7 @@ Die Startseite
 
 Nach der erfolgreichen Anmeldung im Browser gelangen sie zur Startseite der Cloud. Hier sehen sie ihr Cloudverzeichnis und die darin enthaltenen Dateien und Ordner.
 
-.. image:: /bilder/kapitel10/10-4.png
+.. image:: /bilder/cloud/4.png
 
 Den meisten Platz nimmt die Übersicht über die Ordner und Dateien, die sich in ihrem Cloudverzeichnis befinden (1.).
 Weiterhin sehen sie am linken Rand einen Bereich, der Ihnen bei Bedarf genauere Informationen über die von oder mit Ihnen geteilten Dateien bietet (2.).
@@ -89,6 +89,11 @@ Oben rechts auf der Startseite können Sie nach einem Klick auf die Lupe nach Da
 Rechts daneben sehen Sie eine Schaltfläche mit einer Glocke. Hier verbergen sich Ankündigungen des Administrators oder sonstige Benachrichtigungen.
 Ein Klick auf das Icon mit den beiden angedeuteten Personen zeigt Ihnen alle Benutzer der Cloud an, mit denen Sie Dateien geteilt haben.
 Ganz rechts bringt Sie ein Klick auf das Zahnrad zu den Einstellungen ihres Nutzerprofils (4.)
+
+Unten links sehen Sie die Schaltfläche "Gelöschte Dateien". Hier verbergen Sie von Ihnen gelöschte Dateien, die sie bei Bedarf wiederherstellen können.
+Darunter wird Ihnen die aktuelle Belegung Ihres Cloudspeichers angezeigt.
+Ganz unten finden Sie den Punkt "Einstellungen". Ein Klick darauf gibt einerseits die Möglichkeit versteckte Dateien in Ihrer Cloud anzuzeigen, andereseits wird hier auch ein
+WebDav-Link zu ihrem Cloudspeicher erzeugt, mit dessen Hilfe es möglich ist, Ihr Cloudverzeichnis in andere Geräte einzubinden (5.).
 
 
 
@@ -121,21 +126,21 @@ Um im Browser Dateien in die Cloud zu laden, gehen Sie folgendermaßen vor:
 
 2. Klicken Sie einmal auf "Hochladen"
 
-.. image:: /bilder/owncloud/upload-download/upload1.png
+.. image:: /bilder/cloud/5.png
 
 3. Wählen Sie in dem sich öffnenden Fenster die Datei(en) aus, die sie hochladen möchten (Sie können auch mehrere Dateien im selben Ordner auf einmal auswählen, indem Sie die "Shift-Taste" gedrückt halten und mit den Pfeiltasten die entsprechenden Dateien auswählen).
 
-.. image:: /bilder/owncloud/upload-download/upload2.png
+.. image:: /bilder/cloud/upload-download/upload2.png
 
 4. Klicken Sie anschließend auf "öffnen".
 
 5. Sie sehen nun einen blauen Balken, der den Fortschritt des Uploads anzeigt. Je nach Größe der Datei(en) kann der Upload eine Weile dauern. Haben Sie Geduld.
 
-.. image:: /bilder/owncloud/upload-download/upload3.png
+.. image:: /bilder/cloud/upload-download/upload3.png
 
 5. Sie können auch einfach Dateien per "Drag&Drop" vom PC in das Browserfenster ziehen, um Dateien in die Cloud hochzuladen.
 
-.. image:: /bilder/owncloud/upload-download/upload4.png
+.. image:: /bilder/cloud/upload-download/upload4.png
 
 
 Mehrere Dateien und Ordner auswählen
@@ -145,7 +150,7 @@ Um den workflow zu verbessern können, Sie auch mit mehreren Dateien gleichzeiti
 
 1. Bewegen Sie die Maus über die Dateien. Die ganze Zeile in der Übersicht erscheint nur leicht eingegraut.
 
-.. image:: /bilder/owncloud/mehrere-dateien/mehrere-dateien1.png
+.. image:: /bilder/cloud/mehrere-dateien/mehrere-dateien1.png
 
 2. Sie werden feststellen, dass sich die Anzeige des Icons verändert hat und nun am rechten Rand der Datei oder des Ordners ein kleines leeres Kästchen zu sehen ist.
 
@@ -179,17 +184,17 @@ Sollten Sie einmal versehentlich Dateien aus der Cloud gelöscht haben, so lasse
 
 1. Im Startfenster der Owncloud sehen Sie links unten eine Schaltfläche "Gelöschte Dateien".
 
-.. image:: /bilder/owncloud/gelöschte-dateien/gelöschte-dateien1.png
+.. image:: /bilder/cloud/gelöschte-dateien/gelöschte-dateien1.png
 
 2. Klicken Sie darauf, um sich eine Liste mit den von Ihnen gelöschten Dateien und Ordnern anzeigen zu lassen.
 
 3. Klicken Sie auf die Schaltfläche "Wiederherstellen", um die Datei oder den Ordner wiederherzustellen.
 
-.. image:: /bilder/owncloud/gelöschte-dateien/gelöschte-dateien2.png
+.. image:: /bilder/cloud/gelöschte-dateien/gelöschte-dateien2.png
 
 Die Datei bzw. der Ordner befindet sich kurz darauf wieder unter ihren Dateien. Mit einem Klick auf Haussymbol (oben, Mitte links) oder auf die Schaltfläche "Alle Dateien" gelangen Sie wieder zur Startseite zurück.
 
-.. image:: /bilder/owncloud/gelöschte-dateien/gelöschte-dateien3.png
+.. image:: /bilder/cloud/gelöschte-dateien/gelöschte-dateien3.png
 
 
 
@@ -238,7 +243,7 @@ Cloud-Kalender in Thunderbird importieren
 
 1. Auf der Startseite der Cloud auf Kalendericon klicken. (1.)
 
-.. image:: /bilder/owncloud/kalender-app/1.png
+.. image:: /bilder/cloud/kalender-app/1.png
 
 2. Nun auf der linken Seite auf "Arbeiten und Exkursionen klicken. (2.)
 
@@ -246,28 +251,28 @@ Cloud-Kalender in Thunderbird importieren
 
 4. Als nächstes auf "Link" klicken. (4.)
 
-.. image:: /bilder/owncloud/kalender-app/2.png
+.. image:: /bilder/cloud/kalender-app/2.png
 
 5.Den erscheinenden Link markieren und kopieren. (5.)
 
-.. image:: /bilder/owncloud/kalender-app/3.png
+.. image:: /bilder/cloud/kalender-app/3.png
 
 
 Jetzt öffnen Sie bitte auf Ihrem Rechner Thunderbird und gehen zur Kalenderansicht:  "Termine und Aufgabe" -> Kalender.
 
 6. In der Spalte Kalender rechtsklicken und "Neuer Kalender" auswählen (6.)
 
-.. image:: /bilder/owncloud/kalender-app/4.png
+.. image:: /bilder/cloud/kalender-app/4.png
 
 7. Hier als Ort des Kalenders "Im Netzwerk" auswählen und  "Weiter" klicken. (7.)
 
-.. image:: /bilder/owncloud/kalender-app/5.png
+.. image:: /bilder/cloud/kalender-app/5.png
 
 8.  Im folgenden Fenster als Format "CalDAV" auswählen. (8.)
 
 9. Bei "Adresse" den vorhin kopierten Link aus der Cloud einfügen (9.) und auf "Weiter" klicken.
 
-.. image:: /bilder/owncloud/kalender-app/6.png
+.. image:: /bilder/cloud/kalender-app/6.png
 
 10. Einen aussagekräftigen Namen überlegen und eintippen. Dieser wird nur Ihnen in der Kalenderleiste von Thunderbird angezeigt. (10.)
 Wählen Sie Farbe aus, um die Termine dieses Kalender von anderen evt. eingerichteten gut unterscheiden zu können.(11.)
@@ -275,12 +280,12 @@ Geben Sie nun eine Emailadresse auswählen, unter der sie benachrichtigt werden 
 wenn diese in Thunderbird eingerichtet ist.) (12.)
 Dann auf "Weiter" klicken.
 
-.. image:: /bilder/owncloud/kalender-app/7.png
+.. image:: /bilder/cloud/kalender-app/7.png
 
 10. Im darauf folgenden Fenster sollte jetzt die Meldung "Ihr Kalender wurde erstellt" erscheinen.
 Wenn ja,  auf "Fertigstellen" klicken. (13.)
 
-.. image:: /bilder/owncloud/kalender-app/8.png
+.. image:: /bilder/cloud/kalender-app/8.png
 
 .. important:: Sie werden nun aufgefordert, einmalig ihre Anmeldedaten für die Cloud einzugeben. Zum Abschließen auf "Fertigstellen" klicken.
 
@@ -294,7 +299,7 @@ Arbeiten mit einem Kalender in einem Email-Programm (Hier am Beispiel Thunderbir
 
 1. Im Kalenderfenster von Thunderbird (Termine und Aufgaben -> Kalender) Doppelklick in ein Feld.
 
-.. image:: /bilder/owncloud/kalender-app/9.png
+.. image:: /bilder/cloud/kalender-app/9.png
 
 Im nun erscheinenden Fenster können die Parameter ihres Termins angeben:
 Titel des Termins (1.), Dauer des Termins (2.), ob sich der Termin wiederholen soll (3.), ob sie per Mail an den Termin erinnert werden wollen (4.), genauere Beschreibung des Termins (5.).
@@ -306,7 +311,7 @@ Titel des Termins (1.), Dauer des Termins (2.), ob sich der Termin wiederholen s
 3. Wenn Sie einen Termin in einen Kalender eingetragen haben, der sich irgendwo im Netz befindet (zum Beispiel ein Kalender in der Cloud),
 klicken Sie auf "Synchronisieren", um den angelegten Termin mit dem entfernten Kalender sofort zu synchronisieren.
 
-.. image:: /bilder/owncloud/kalender-app/10.png
+.. image:: /bilder/cloud/kalender-app/10.png
 
 Eine Klassenarbeit oder eine Exkursion in den Kalender "Arbeiten u. Exkursionen" eintragen
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
@@ -327,31 +332,31 @@ Wenn Sie nun also eine Klassenarbeit oder eine Exkursion in den gemeinsamen Kale
 
 2. Klicken Sie Hauptfenster in der Leiste der Apps auf das Kalendersymbol
 
-.. image:: /bilder/owncloud/kalender-app/11.png
+.. image:: /bilder/cloud/kalender-app/11.png
 
 3. Sie werden zur Kalender-App weitergeleitet. Die meisten Platz auf dem Bildschirm nimmt die Kalenderübersicht ein. Ein Kästchen pro Tag.
 Links oben sehen sie den angezeigten Monat und das Jahr. Klicken Sie auf die Pfeile links oder rechts neben Anzeige von Monat und Jahr, um zum gewünschten Termin zu gelangen.
 Klicken Sie auf die Schaltflächen "Tag", "Woche", "Monat" oder "Heute", um die Ansicht zu ändern. Die Übersicht rechts verändert sich entsprechend.
 Weiterhin sehen Sie links alle Kalender die sie angelegt haben, oder die mit Ihnen geteilt wurden. Das sind wahrscheinlich nur zwei. Ein blau markierter mit dem Namen "Persönlich" für ihre eigenen Termine und einen rot markierten darunter mit dem Namen "Arbeiten und Exkursionen".
 
-.. image:: /bilder/owncloud/kalender-app/12.png
+.. image:: /bilder/cloud/kalender-app/12.png
 
 4. Um eine Klassenarbeit oder eine Exkursion in diesem Kalender einzutragen, doppelklicken Sie auf das gewünschte Datum in der Übersicht.
 Es öffnet sich ein Fenster, in das sie bitte den Namen des Eintrags eintragen ("Titel der Veranstaltung") sowie die Dauer (die Uhrzeit).
 
 .. important:: Um die Übersichtlichkeit zu erhöhen und um für ein einheitliches Erscheinungsbild zu sorgen halten Sie sich bitte an folgende Schreibweise: Klasse,Fach,Lehrerkürzel. Zum Beispiel: 9d,D,Hu
 
-.. image:: /bilder/owncloud/kalender-app/13.png
+.. image:: /bilder/cloud/kalender-app/13.png
 
 .. important:: Achten Sie darauf, dass Sie den richtigen Kalender ausgewählt haben. Klicken Sie auf das Dropdown-Menu und wählen Sie den Kalender "Arbeiten u. Exkursionen".
 
 Sind alle Angaben korrekt und der richtige Kalender ausgewählt, klicken Sie auf die Schaltfläche "Erstellen" unten rechts.
 
-.. image:: /bilder/owncloud/kalender-app/14.png
+.. image:: /bilder/cloud/kalender-app/14.png
 
 Wenn alles geklappt hat, erscheint der Termin in der Kalenderübersicht in roter Farbe! Der Termin ist nun für alle anderen Kollegen sichtbar.
 
-.. image:: /bilder/owncloud/kalender-app/15.png
+.. image:: /bilder/cloud/kalender-app/15.png
 
 
 "Lesezeichen"
