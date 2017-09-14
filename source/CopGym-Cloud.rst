@@ -67,20 +67,21 @@ Nach der erfolgreichen Anmeldung im Browser gelangen sie zur Startseite der Clou
 
 .. image:: /bilder/kapitel10/10-4.png
 
-Den meisten Platz nimmt die Übersicht über die Ordner und Dateien, die sich in ihrem Cloudverzeichnis befinden (1.). Weiterhin sehen sie am linken Rand einen Bereich, der Ihnen bei Bedarf genauere Informationen über die von oder mit Ihnen geteilten Dateien bietet (2.).
-Links oben neben der Wolke befindet sich ein Feld, das den etwas irreführenden Namen "Dateien" trägt (3.). Wenn Sie darauf klicken, erscheint ein weiteres Feld mit Anwendungsmöglichkeiten, sogenannten "Apps", die Ihnen die Cloud bietet:
+Den meisten Platz nimmt die Übersicht über die Ordner und Dateien, die sich in ihrem Cloudverzeichnis befinden (1.).
+Weiterhin sehen sie am linken Rand einen Bereich, der Ihnen bei Bedarf genauere Informationen über die von oder mit Ihnen geteilten Dateien bietet (2.).
+Links oben neben dem Cloud-Symbol befinden sich die verschiedenen Anwendungen ("Apps"), die Ihnen die Cloud bietet(3.).
 
-.. image:: /bilder/startseite+apps/startseite-überblick-dateien.png
-
-Sie sehen folgende Bereiche:
+Sie sehen folgende Bereiche (von links nach rechts):
 
 - "Dateien": bringt Sie zurück zur Übersicht ihrer Dateien und Ordner
 - "Aktivität": hier finden sie Informationen über die mit oder von Ihnen geteilten Dateien und wer, wann, was damit gemacht hat.
-- "Dokumente": dahinter verbirgt sich ein kleiner Texteditor mit zahlreichen Formatierungsmöglichekiten, mit dem Sie Textdateien direkt in der Cloud erstellen oder bearbeiten können.
 - "Galerie": eine Sammlung aller Bilder, die sie auf der Cloud gespeichert haben.
-- "Kontakte": Hier können Sie Kontakte eintragen und verwalten. Diesen Bereich können Sie auch mit ihrem Smartphone oder ihrem Emailprogramm auf dem heimischen PC synchronisieren.
-- "Kalender": wie der Name schon sagt, können Sie hier einen Kalender führen, andere Kalender einbinden, diese Kalender mit anderen teilen oder mit den Geräte zuhause synchronisieren.
-- "Lesezeichen": Eine Möglichkeit Booksmarks von interessanten Webseiten zu speichern. diese Bookmarks können Sie ebenfalls teilen, syncen etc.
+- "Kalender": wie der Name schon sagt, können Sie hier einen Kalender führen, andere Kalender einbinden,
+diese Kalender mit anderen teilen oder mit den Geräte zu Hause synchronisieren.
+- "Audio-Player": bietet Ihnen die Möglichkeit, Audio-Dateien direkt aus der Cloud heraus abzuspielen.
+- "Notizen": Raum für Notizen, Gedanken, Einfälle
+- "Ankündigungen": Hier finden Sie Mitteilungen des Admins, die sicherlich immer einen Blick wert sind.
+
 
 Genaueres zu diesen "Apps" finden sie hier :ref:`dateien-sk`
 
