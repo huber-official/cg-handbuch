@@ -84,8 +84,10 @@ Sie sehen folgende Bereiche:
 
 Genaueres zu diesen "Apps" finden sie hier :ref:`dateien-sk`
 
-Oben rechts auf der Startseite können Sie nach einem Klick auf die Lupe nach Dateien suchen. Rechts daneben sehen Sie eine Schaltfläche mit einem Kreis, der Sie zu den Einstellungen ihres Nutzerprofils führt (4.)
-
+Oben rechts auf der Startseite können Sie nach einem Klick auf die Lupe nach Dateien suchen.
+Rechts daneben sehen Sie eine Schaltfläche mit einer Glocke. Hier verbergen sich Ankündigungen des Administrators oder sonstige Benachrichtigungen.
+Ein Klick auf das Icon mit den beiden angedeuteten Personen zeigt Ihnen alle Benutzer der Cloud an, mit denen Sie Dateien geteilt haben.
+Ganz rechts bringt Sie ein Klick auf das Zahnrad zu den Einstellungen ihres Nutzerprofils (4.)
 
 
 
