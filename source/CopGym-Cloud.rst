@@ -65,7 +65,7 @@ Die Startseite
 
 Nach der erfolgreichen Anmeldung im Browser gelangen sie zur Startseite der Cloud. Hier sehen sie ihr Cloudverzeichnis und die darin enthaltenen Dateien und Ordner.
 
-.. image:: /bilder/startseite+apps/startseite-oc.png
+.. image:: /bilder/kapitel10/10-4.png
 
 Den meisten Platz nimmt die Übersicht über die Ordner und Dateien, die sich in ihrem Cloudverzeichnis befinden (1.). Weiterhin sehen sie am linken Rand einen Bereich, der Ihnen bei Bedarf genauere Informationen über die von oder mit Ihnen geteilten Dateien bietet (2.).
 Links oben neben der Wolke befindet sich ein Feld, das den etwas irreführenden Namen "Dateien" trägt (3.). Wenn Sie darauf klicken, erscheint ein weiteres Feld mit Anwendungsmöglichkeiten, sogenannten "Apps", die Ihnen die Cloud bietet:
