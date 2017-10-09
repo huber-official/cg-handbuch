@@ -220,6 +220,9 @@ Ein Klick auf dieses Symbol bringt Sie wieder zurück zur Startseite, wo Sie ihr
 "Galerie"
 ~~~~~~~~~
 
+"Kreise"
+~~~~~~~~~
+
 "Kontakte"
 ~~~~~~~~~~
 
