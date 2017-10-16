@@ -55,7 +55,10 @@ Mobile Geräte (Android, iOS etc.)
 
 Auch für mobile Geräte gibt es Programme, mit denen Sie auf den Inhalt ihres Cloudverzeichnisses zugreifen können. Sie finden diese im Appstore ihres mobilen Gerätes. Der Nextlcoud-Client für Android kostet allerdings so circa einen Euro. Ein kleiner Preis verglichen mit den Vorteilen, die Nextcloud bietet. Das Geld geht an die Entwickler des Projekts. Die Einrichtung eines mobilen Clients geschieht analog zu dem der Desktop-Variante.
 
-Umgang mit der Cloud
+
+.. _arbeiten-sk:
+
+Arbeiten mit der Cloud
 -----------------------------------------------------
 
 Da vielen Kollegen die Arbeitsweise mit der Cloud noch fremd ist und sie auch noch nicht alle Möglichkeiten unserer Cloud entdeckt haben, erklären die folgenden Abschnitte das Arbeiten mit der Cloud.
@@ -76,7 +79,7 @@ Sie sehen folgende Bereiche (von links nach rechts):
 - "Dateien": bringt Sie zurück zur Übersicht ihrer Dateien und Ordner
 - "Aktivität": hier finden sie Informationen über die mit oder von Ihnen geteilten Dateien und wer, wann, was damit gemacht hat.
 - "Galerie": eine Sammlung aller Bilder, die sie auf der Cloud gespeichert haben.
-- "Kreise": bietet die Möglichkeit, Gruppen zu erstellen, um Dateien einfach mit mehreren Benutzern zu teilen. 
+- "Kreise": bietet die Möglichkeit, Gruppen zu erstellen, um Dateien einfach mit mehreren Benutzern zu teilen.
 - "Kalender": wie der Name schon sagt, können Sie hier einen Kalender führen, andere Kalender einbinden,
 diese Kalender mit anderen teilen oder mit den Geräte zu Hause synchronisieren.
 - "Audio-Player": bietet Ihnen die Möglichkeit, Audio-Dateien direkt aus der Cloud heraus abzuspielen.
@@ -96,12 +99,6 @@ Darunter wird Ihnen die aktuelle Belegung Ihres Cloudspeichers angezeigt.
 Ganz unten finden Sie den Punkt "Einstellungen". Ein Klick darauf gibt einerseits die Möglichkeit versteckte Dateien in Ihrer Cloud anzuzeigen, andereseits wird hier auch ein
 WebDav-Link zu ihrem Cloudspeicher erzeugt, mit dessen Hilfe es möglich ist, Ihr Cloudverzeichnis in andere Geräte einzubinden (5.).
 
-
-
-.. _arbeiten-sk:
-
-Arbeiten mit der Cloud
-^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Dateien hoch- und herunterladen
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
