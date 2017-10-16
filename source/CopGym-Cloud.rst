@@ -76,6 +76,7 @@ Sie sehen folgende Bereiche (von links nach rechts):
 - "Dateien": bringt Sie zurück zur Übersicht ihrer Dateien und Ordner
 - "Aktivität": hier finden sie Informationen über die mit oder von Ihnen geteilten Dateien und wer, wann, was damit gemacht hat.
 - "Galerie": eine Sammlung aller Bilder, die sie auf der Cloud gespeichert haben.
+- "Kreise": bietet die Möglichkeit, Gruppen zu erstellen, um Dateien einfach mit mehreren Benutzern zu teilen. 
 - "Kalender": wie der Name schon sagt, können Sie hier einen Kalender führen, andere Kalender einbinden,
 diese Kalender mit anderen teilen oder mit den Geräte zu Hause synchronisieren.
 - "Audio-Player": bietet Ihnen die Möglichkeit, Audio-Dateien direkt aus der Cloud heraus abzuspielen.
