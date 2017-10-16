@@ -219,6 +219,11 @@ Ein Klick auf dieses Symbol bringt Sie wieder zurück zur Startseite, wo Sie ihr
 "Kreise"
 ^^^^^^^^^^^^^
 
+Diese App bietet Ihnen die Möglichkeit, Gruppen zu erstellen, um Dateien gleichzeitig mit mehreren Benutzern zu teilen
+oder an geteilten Dateien zu arbeiten (Oberstufenkurs, Fachschaften, AGs). Es besteht mit dieser App nicht mehr die Notwendigkeit,
+Gruppen erst in der Schulkonsole anlegen zu müssen, um Dateien mit mehreren Benutzern zu teilen. Die Möglichkeit, eine Gruppe zuerst in der
+Schulkonsole als Projekt anzulegen, besteht aber weiterhin. Wie man das macht, finden Sie hier: :ref:`kurs-sk:`
+
 "Kontakte"
 ^^^^^^^^^^^^^
 
