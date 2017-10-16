@@ -161,7 +161,7 @@ Um den workflow zu verbessern können, Sie auch mit mehreren Dateien gleichzeiti
 .. _erstellen-sk:
 
 Erstellen von Dateien und Ordnern in der Cloud
-'''''''''''''''''''''''''''''''''''''''''''''''
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Sie können Ordner und Dateien (Textdateien) auch direkt in der Cloud erstellen und bearbeiten (Genaueres zum Bearbeiten von Textdateien finden Sie im Abschnitt :ref:`dokumente-sk`)
 
