@@ -4,7 +4,7 @@ CopGym-Cloud [#cloud]_
 Seit einiger Zeit verfügen wir über einen eigenen Nextcloud-Server, sodass wir ab jetzt die Vorteile einer Cloud ohne datenschutzrechtliche Bedenken nutzen können. Wenn Sie bereits mit Dropbox, Onedrive, Icloud, GoogleDrive o.ä arbeiten, sind Ihnen die Vorteile einer Cloud sicherlich bekannt.
 
 Vorteile der Cloud
----------------------
+-----------------------
 
 - einfaches Synchronisieren von Dateien zwischen Laptop, Handy und dem PC an der Schule (via Browser) und damit problemloser „Transport“ von Dateien.
 - Einfaches Teilen von Dateien mit Kollegen, Klassen, Kursen
@@ -12,13 +12,11 @@ Vorteile der Cloud
 - Notizfunktion
 - Onlinebearbeitung von Dokumenten
 
-Zugriff auf die Cloud
--------------------------
 
 .. _zugriff-sk:
 
 Zugriff auf die Cloud
-^^^^^^^^^^^^^^^^^^^^^^
+-------------------------
 
 Zugriff auf die Cloud im Browser erhalten Sie, indem sie auf der Startseite der schuleigenen Homepage auf den Link „copbox“ klicken oder im Browser direkt folgende URL eingeben:
 https://owncloud.copernicus-gymnasium.de/owncloud
@@ -28,7 +26,7 @@ Dort können Sie sich mit ihren Accountdaten anmelden.
 .. _client-sk:
 
 Desktop-Client
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------
 
 Wie für die herkömmlichen Cloudlösungen auch, existiert auch für Nextcloud ein Programm, mit dem Sie die Cloud auf Ihrem Rechner wie einen normalen Ordner in ihr System integrieren können.
 Nach der ersten Anmeldung an der Cloud im Browser erscheint ein Pop-up-Fenster, das Ihnen das Herunterladen eines Clients für ihr Betriebsystem anbietet. Haben Sie das Fenster zugemacht und wollen nun aber erneut die Links zu dem Download der Clients sehen, klicken Sie auf der Startseite von Owncloud auf ihren Namen (oben rechts) und wählen Sie den Bereich „Persönlich".
@@ -51,7 +49,7 @@ Der Inhalt ihres Cloudverzeichnisses auf dem Cloudserver in der Schule wird nach
 .. _app-sk:
 
 Mobile Geräte (Android, iOS etc.)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------------------
 
 Auch für mobile Geräte gibt es Programme, mit denen Sie auf den Inhalt ihres Cloudverzeichnisses zugreifen können. Sie finden diese im Appstore ihres mobilen Gerätes. Der Nextlcoud-Client für Android kostet allerdings so circa einen Euro. Ein kleiner Preis verglichen mit den Vorteilen, die Nextcloud bietet. Das Geld geht an die Entwickler des Projekts. Die Einrichtung eines mobilen Clients geschieht analog zu dem der Desktop-Variante.
 
@@ -101,12 +99,12 @@ WebDav-Link zu ihrem Cloudspeicher erzeugt, mit dessen Hilfe es möglich ist, Ih
 
 
 Dateien hoch- und herunterladen
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Der grundlegende Vorteil einer Cloud besteht natürlich darin, dass Sie von überall und mit (fast) allen Geräten auf die Dateien in der Cloud zugreifen können. Dazu müssen die Dateien erst einmal in die Cloud geladen werden. Das kann auf zwei Wegen erfolgen.
 
 1. Dateien mittels eines Desktop-Clients ( Windows, Mac oder Linux) oder einer App (IOs, Android) hochladen
-''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Wenn Sie Nextcloud-Client auf ihrem Rechner installiert haben (dazu siehe :ref:`client-sk`) und diesen bei der Ersteinrichung mit der Cloud verbunden haben, wird im Dateisystem ihres Computers ein Ordner erstellt, die direkt mit der Cloud verbunden ist (natürlich nur, solange eine Internetverbindung besteht). Dieser Ordner verhält sich wie jeder andere Ordner auf ihrem PC auch. Dateien und Ordner, die Sie in diesen Cloudordner kopieren, werden sofort in die Cloud hochgeladen. Dateien, die mit Ihnen geteilt werden, werden automatisch in diesen Ordner heruntergeladen. Das ist mit Sicherheit die komfortabelste Methode, um mit der Cloud zu arbeiten. Hinzu kommt außerdem, dass die Daten nun auf ihrem Rechner und in der Cloud vorhanden sind. D.h. sollte, der Cloudserver nicht erreichbar sein oder die Daten dort verschwunden sein, verfügen Sie weiterhin über die Daten, da sie sich ja nun auch auf ihrem Rechner befinden.
 Den Nextcloud-Client gibt es auch für Android- und IOsgeräte, ja wahrscheinlich sogar für Windows-Smartphones. Wollen Sie also Dateien von ihrem Tablet oder Smartphone in die Cloud bringen oder umgekehrt, empfiehlt sich der Download der Owncloud-App im Appstore ihres Smartphones. Siehe dazu auch: :ref:`app-sk`
@@ -115,7 +113,7 @@ Den Nextcloud-Client gibt es auch für Android- und IOsgeräte, ja wahrscheinlic
 .. important:: Die Verwendung des Nextcloud-Clients ist die beste Art, mit der Cloud zu arbeiten.
 
 2. Dateien mit dem Browser hoch- und herunterladen.
-''''''''''''''''''''''''''''''''''''''''''''''''''''
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Die Cloud bietet Ihnen die Möglichkeit, von überall auf ihre Daten zuzugreifen. Sie benötigen nur eine Internetverbindung und einen Browser. Wie Sie per Browser auf die Cloud des Copernicus-Gymnasiums zugreifen, wurde bereits weiter oben erklärt (siehe Abschnitt :ref:`zugriff-sk`)
 Um im Browser Dateien in die Cloud zu laden, gehen Sie folgendermaßen vor:
@@ -161,7 +159,7 @@ Um den workflow zu verbessern können, Sie auch mit mehreren Dateien gleichzeiti
 .. _erstellen-sk:
 
 Erstellen von Dateien und Ordnern in der Cloud
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Sie können Ordner und Dateien (Textdateien) auch direkt in der Cloud erstellen und bearbeiten (Genaueres zum Bearbeiten von Textdateien finden Sie im Abschnitt :ref:`dokumente-sk`)
 
@@ -176,7 +174,7 @@ Möchten Sie eine Datei in einem bestimmten Ordner verschieben, können Sie das 
 
 
 Gelöschte Dateien
-''''''''''''''''''
+^^^^^^^^^^^^^^^^^^
 
 Sollten Sie einmal versehentlich Dateien aus der Cloud gelöscht haben, so lassen sich diese ganz einfach wiederherstellen.
 
@@ -199,33 +197,33 @@ Die Datei bzw. der Ordner befindet sich kurz darauf wieder unter ihren Dateien. 
 .. _dateien-sk:
 
 Die verschiedenen Apps
-^^^^^^^^^^^^^^^^^^^^^^
+--------------------------
 
 "Dateien"
-~~~~~~~~~
+^^^^^^^^^^^^^
 
 Ein Klick auf dieses Symbol bringt Sie wieder zurück zur Startseite, wo Sie ihre gespeicherten Dateien und Ordner finden. Zur Arbeitsweise mit Dateien und Ordnern siehe :ref:`arbeiten-sk`
 
 "Aktivität"
-~~~~~~~~~~~
+^^^^^^^^^^^^^
 
 
 .. _dokumente-sk:
 
 "Dokumente"
-~~~~~~~~~~~
+^^^^^^^^^^^^^
 
 "Galerie"
-~~~~~~~~~
+^^^^^^^^^^^^^
 
 "Kreise"
-~~~~~~~~~
+^^^^^^^^^^^^^
 
 "Kontakte"
-~~~~~~~~~~
+^^^^^^^^^^^^^
 
 "Kalender"
-~~~~~~~~~~
+^^^^^^^^^^^^^
 
 Die Cloud verfügt über eine Kalender-App, mit dem man alle möglichen Termine verwalten kann.
 So könnten Sie zum Beispiel einen Terminkalender für Ihre eigene Klasse einrichten oder den "Klausuren- und Exkurisionenkalender" verwenden.
@@ -361,10 +359,10 @@ Wenn alles geklappt hat, erscheint der Termin in der Kalenderübersicht in roter
 
 
 "Lesezeichen"
-~~~~~~~~~~~~~
+^^^^^^^^^^^^^
 
 "Ankündigungen"
-~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^
 
 Benutzerhandbuch
 ^^^^^^^^^^^^^^^^
