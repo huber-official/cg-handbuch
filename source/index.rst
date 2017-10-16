@@ -21,7 +21,7 @@ Willkommen zum Leitfaden zur Benutzung des Netzwerks!
    Computer überwachen mit iTalc oder Epoptes
    Benutzung des Wlan
    Hinweise zum Drucken
-   CopGym-Cloud
+   CopBox
    Feedback und Fehlermeldungen - Flyspray
    Dieses und weitere Dokumente zum Schulnetz
    LICENSE
