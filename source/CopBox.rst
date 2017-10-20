@@ -316,7 +316,7 @@ Es öffnet sich ein Menu, in dem Sie noch einige Dinge eintragen müssen, um die
 
 6. Tragen Sie im Feld "SMTP-Host" ein: mbox1.belwue.de
 
-.. important:: Sollte im Feld darunter nicht bereits "587      STARTTLS" voreingestellt sein, klicken Sie auf kleine Dreieck in diesem Feld und wählen "STARTTLS" aus.
+.. important:: Sollte im Feld darunter nicht bereits "587      STARTTLS" voreingestellt sein, klicken Sie auf das kleine Dreieck in diesem Feld und wählen "STARTTLS" aus.
 
 7. Im Feld "SMTP-Benutzer" geben Sie bitte erneut Ihre Dienst-Emailadresse ein und im Feld darunter ( "SMTP-Passwort") erneut der Passwort ihres Dienst-Emailaccounts.
 
