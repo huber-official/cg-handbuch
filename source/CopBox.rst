@@ -288,7 +288,7 @@ Klicken Sie auf der "App-Leiste" auf den Briefumschlag, um die Mail-App (erstmal
 .. image:: /bilder/cloud/mail-app/1.png
 
 Jetzt kann es Weilchen dauern ( ca. 15 Sekunden), bis die App startet.
-Sie sehen dann einen Seite, auf der Sie zur Eingabe der Account-Informationen Ihres Email-Zugangs aufgefordert werden.
+Sie sehen dann eine Seite, auf der Sie zur Eingabe der Account-Informationen Ihres Email-Zugangs aufgefordert werden.
 
 
 .. _konfig-mails-sk:
@@ -296,16 +296,15 @@ Sie sehen dann einen Seite, auf der Sie zur Eingabe der Account-Informationen Ih
 Konfiguration der Mail-App zum Abrufen der Dienst-Emails
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
- .. important:: Das folgende Vorgehen beschreibt die Konfiguration der Mail-App zum Abrufen ihres Dienst-Emailaccounts. Sie können natürlich auch ein beliebige andere Emailadresse
-mit der Mail App verknüpfen. Die notwendigen Daten für eine Konfiguration mit einer beliebigen anderen Emailadresse müssen Sie selbst in Erfahrung bringen.
+ .. important:: Das folgende Vorgehen beschreibt die Konfiguration der Mail-App zum Abrufen ihres Dienst-Emailaccounts. Sie können natürlich auch eine beliebige andere Emailadresse mit der Mail App verknüpfen. Die notwendigen Daten für eine Konfiguration mit einer beliebigen anderen Emailadresse müssen Sie selbst in Erfahrung bringen.
 
 .. image:: /bilder/cloud/mail-app/2.png
 
-1. Geben Sie ihre Dienst-Emailadresse im Feld "E-Mail-Adresse" ein
+1. Geben Sie ihre Dienst-Emailadresse im Feld "E-Mail-Adresse" ein.
 
 2. Klicken Sie nun auf "Manuelle Einrichtung".
 
-Es öffnet sich ein Menu, in dem Sie noch einige Dinge eintragen müssen, um die Mail-App zu konfigurien.
+Es öffnet sich ein Menu, in dem Sie noch einige Dinge eintragen müssen, um die Mail-App zu konfigurieren.
 
 .. image:: /bilder/cloud/mail-app/3.png
 
@@ -315,8 +314,9 @@ Es öffnet sich ein Menu, in dem Sie noch einige Dinge eintragen müssen, um die
 
 5. Geben Sie nun im Feld "IMAP-Benutzer" ihre Dienst-Emailadresse ein und im Feld "IMAP-Passwort" das Passwort Ihres Dienst-Emailaccounts.
 
-6. Tragen Sie im Feld "SMTP-Host" ein: mbox1.belwue.de Sollte im Feld darunter nicht bereits "587      STARTTLS" voreingestellt sein, klicken Sie auf kleine Dreieck in diesem Feld
-und wählen "STARTTLS" aus.
+6. Tragen Sie im Feld "SMTP-Host" ein: mbox1.belwue.de
+
+.. important:: Sollte im Feld darunter nicht bereits "587      STARTTLS" voreingestellt sein, klicken Sie auf kleine Dreieck in diesem Feld und wählen "STARTTLS" aus.
 
 7. Im Feld "SMTP-Benutzer" geben Sie bitte erneut Ihre Dienst-Emailadresse ein und im Feld darunter ( "SMTP-Passwort") erneut der Passwort ihres Dienst-Emailaccounts.
 
@@ -325,6 +325,8 @@ und wählen "STARTTLS" aus.
 8. Um die Konfiguration abzuschließen, klicken Sie abschließend auf "Verbinden".
 
 Die App versucht nun, sich mit Ihrem Dienst-Emailaccount zu verbinden. Das kann wieder ein wenig dauern. Hat alles geklappt, öffnet sich die Startseite der Mail-App.
+
+
 
 
 
@@ -337,10 +339,10 @@ War die Konfiguration erfolgreich, wird Ihnen die Startseite der Mail-App angeze
 
 .. image:: /bilder/cloud/mail-app/4.png
 
-Die Startseite der Mail-App ähnelt herkömmlichen Mail-programmen und der Ansicht diverser Web-Mailer wie web.de o.ä
+Die Startseite der Mail-App ähnelt herkömmlichen Mail-programmen und der Ansicht diverser Web-Mailer wie web.de o.ä.
 
-Auf der linken Seite (1.) sehen Sie eine Übersicht über die Ordner Ihres Postfachs sowie ein Schaltfläche "+ Neue Nachricht" (das dürfte wohl selbsterklärend sein)
-In der Mitte (2.) sehen Sie eine Liste mit alles Mails, die sich in Ihrem Postfach befinden.
+Auf der linken Seite (1.) sehen Sie eine Übersicht über die Ordner Ihres Postfachs sowie eine Schaltfläche "+ Neue Nachricht" (das dürfte wohl selbsterklärend sein)
+In der Mitte (2.) sehen Sie eine Liste mit allen Mails, die sich in Ihrem Postfach befinden.
 Rechts (3.) zeigt die größte Spalte die aktuell markierte Mail an. Um eine Mail anzuzeigen, klicken Sie auf eine der Mails in der mittleren Spalte.
 
 
