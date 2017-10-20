@@ -548,7 +548,7 @@ klicken Sie auf "Synchronisieren", um den angelegten Termin mit dem entfernten K
 Eine Klassenarbeit oder eine Exkursion in den Kalender "Arbeiten u. Exkursionen" eintragen
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Seit Schuljahresbeginn (2017/18) existieren für die Lehrer mehrere Kalender in der Cloud, in denen jeder seine Klassenarbeiten und Exkursionen
+Seit Schuljahresbeginn (2017/18) existieren für die Lehrer mehrere Kalender in der Cloud, in die jeder seine Klassenarbeiten und Exkursionen
 eintragen kann.
 
 .. image:: /bilder/cloud/kalender-app/16.png
