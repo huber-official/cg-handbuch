@@ -562,7 +562,7 @@ oder auch in eine entsprechende App einbinden, um die Kalender auch auf mobilen 
 anlegt hat das vorige Kapitel beschrieben (Für Outlook und andere gilt ein ähnliches Vorgehen).
 Dieses Kapitel beschreibt, wie man eine Klassenarbeit oder eine Exkursion in diese Kalender einträgt, wenn man die Kalender im Browser benutzt.
 
-.. important:: Allerdings sollten Sie folgende Punkte bedenken:  1. Der Netzwerkberater stellt die Funktionalität bereit und ist nicht für fehlerhafte oder nicht korrekt angelegte Einträge verantwortlich. Vergewissern Sie sich daher bitte immer,a) ob der Inhalt des Eintrags korrekt ist, b) der Eintrag in dem richtigen Kalender ("Arbeiten u. Exkursionen") angelegt wurde und c), dass der Eintrag gespeichtert wurde. Bedenken Sie weiterhin, dass Sie die Einträge der Kollegen verändern und löschen können. Bitte vermeiden Sie dies unbedingt.
+.. important:: Allerdings sollten Sie folgende Punkte bedenken:  Der Netzwerkberater stellt die Funktionalität bereit und ist nicht für fehlerhafte oder nicht korrekt angelegte Einträge verantwortlich. Vergewissern Sie sich daher bitte immer,a) ob der Inhalt des Eintrags korrekt ist, b) der Eintrag in dem richtigen Kalender ("Arbeiten u. Exkursionen") angelegt wurde und c), dass der Eintrag gespeichtert wurde. Bedenken Sie weiterhin, dass Sie die Einträge der Kollegen verändern und löschen können. Bitte vermeiden Sie dies unbedingt.
 
 Wenn Sie nun also eine Klassenarbeit oder eine Exkursion in den gemeinsamen Kalender eintragen möchten und dabei die Webansicht des Kalender verwenden möchten, gehen bitte wie folgt vor:
 
