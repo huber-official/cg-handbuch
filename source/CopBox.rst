@@ -363,7 +363,7 @@ Dateien mit einem Kreis teilen
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Mit dem angelegten Kreis können Sie nun Dateien austauschen (wenn Sie Mitglied des Kreises sind).
-das funktioniert auf die übliche Art und Weise. Siehe dazu LINK
+das funktioniert auf die übliche Art und Weise. Siehe dazu :ref:`dateien-teilen`
 
 
 
