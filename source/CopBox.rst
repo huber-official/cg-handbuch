@@ -205,7 +205,7 @@ Klicken Sie auf den gewünschten Namen. Dieser wird darauf unter dem Suchfeld ei
 
 Neben dem Namen finden Sie weiter Optionen.
 
-.. important:: Wenn Sie NICHT, möchten, dass die Person, mit denen Sie ein Objekt geteilt haben, dieses bearbeiten kann, dann
+.. important:: Wenn Sie NICHT möchten, dass die Person, mit denen Sie ein Objekt geteilt haben, dieses bearbeiten kann, dann
 entfernen Sie den Haken neben "kann bearbeiten". Ist der Haken gesetzt, können Sie mit einem Klick auf die drei Punkte
 neben der Schaltfläche "kann bearbeiten"
 
