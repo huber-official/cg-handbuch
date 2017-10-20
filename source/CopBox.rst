@@ -472,13 +472,19 @@ klicken Sie auf "Synchronisieren", um den angelegten Termin mit dem entfernten K
 Eine Klassenarbeit oder eine Exkursion in den Kalender "Arbeiten u. Exkursionen" eintragen
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 
-Seit Schuljahresbeginn (2017/18) existiert für die Lehrer ein gemeinsamer Kalender in der Cloud, in den jeder seine Klassenarbeiten und Exkursionen
-eintragen kann. Ziel dieses Kalenders ist es, den z.T. unübersichtlichen Plan, in den jeder handschriflich seine Arbeiten eingetragen hat, zu ersetzen.
-Der Vorteil liegt auf der Hand: Man kann in Ruhe zu Hause seine Klassenarbeit planen und eintragen, da der Kalender rund um die Uhr auch von
-zu Hause (oder von anderswo) aus erreichbar ist. Man kann diesen Kalender bequem in ein Email-Programm mit Kalenderfunktion einbinden (Thunderbird, Outlook, Apple-Variante)
-oder auch in eine entsprechende App einbinden, um den Kalender auch auf mobilen Geräten verfügbar zu machen. Wie man einen Termin in einem Email-Prgramm
+Seit Schuljahresbeginn (2017/18) existieren für die Lehrer mehrere Kalender in der Cloud, in denen jeder seine Klassenarbeiten und Exkursionen
+eintragen kann.
+
+.. image:: /bilder/cloud/kalender-app/16.png
+
+Für jede Klasse bzw. Klassenstufe wurde ein eigener Kalender erstellt! Damit die Übersichtlichkeit gewahrt bleibt, kann man alle Kalender, die man nicht zu sehen wünscht, mit einem Klick
+auf den farbigen Punkt links neben dem Kalendernamen, ausblenden. Übrig bleiben in der Terminübersich rechts dann nur die farbig markierten Kalender.
+Ziel dieser Kalender ist es, den z.T. unübersichtlichen Plan, in den jeder handschriflich seine Arbeiten eingetragen hat, zu ersetzen.
+Der Vorteil liegt auf der Hand: Man kann in Ruhe zu Hause seine Klassenarbeit planen und eintragen, da die Kalender rund um die Uhr auch von
+zu Hause (oder von anderswo) aus erreichbar sind. Man kann diese Kalender bequem in ein Email-Programm mit Kalenderfunktion einbinden (Thunderbird, Outlook, Apple-Variante)
+oder auch in eine entsprechende App einbinden, um die Kalender auch auf mobilen Geräten verfügbar zu machen. Wie man einen Termin in einem Email-Prgramm
 anlegt hat das vorige Kapitel beschrieben (Für Outlook und andere gilt ein ähnliches Vorgehen).
-Dieses Kapitel beschreibt, wie man eine Klassenarbeit oder eine Exkursion in diesen Kalender einträgt, wenn man den Kalender im Browser benutzt.
+Dieses Kapitel beschreibt, wie man eine Klassenarbeit oder eine Exkursion in diese Kalender einträgt, wenn man die Kalender im Browser benutzt.
 
 .. important:: Allerdings sollten Sie folgende Punkte bedenken:  1. Der Netzwerkberater stellt die Funktionalität bereit und ist nicht für fehlerhafte oder nicht korrekt angelegte Einträge verantwortlich. Vergewissern Sie sich daher bitte immer,a) ob der Inhalt des Eintrags korrekt ist, b) der Eintrag in dem richtigen Kalender ("Arbeiten u. Exkursionen") angelegt wurde und c), dass der Eintrag gespeichtert wurde. Bedenken Sie weiterhin, dass Sie die Einträge der Kollegen verändern und löschen können. Bitte vermeiden Sie dies unbedingt.
 
@@ -504,7 +510,8 @@ Es öffnet sich ein Fenster, in das sie bitte den Namen des Eintrags eintragen (
 
 .. image:: /bilder/cloud/kalender-app/13.png
 
-.. important:: Achten Sie darauf, dass Sie den richtigen Kalender ausgewählt haben. Klicken Sie auf das Dropdown-Menu und wählen Sie den Kalender "Arbeiten u. Exkursionen".
+.. important:: Achten Sie darauf, dass Sie den richtigen Kalender ausgewählt haben. Klicken Sie auf das Dropdown-Menu und wählen Sie den Kalender derjenigen Klasse, in den Sie eine Klassenarbeit oder eine Exkursion
+eintragen möchten, z. B. "6a".
 
 Sind alle Angaben korrekt und der richtige Kalender ausgewählt, klicken Sie auf die Schaltfläche "Erstellen" unten rechts.
 
