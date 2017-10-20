@@ -183,7 +183,7 @@ Möchten Sie eine Datei in einem bestimmten Ordner verschieben, können Sie das 
 
 Dateien mit anderen teilen
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-/bilder/cloud/gelöschte-dateien/gelöschte-dateien1.png
+
 Auf der Startseite sehen sie alle Dateien und Ordner, die sich in ihrem Cloud-Verzeichnis befinden. Sie sehen auch,
 wer Dateien mit Ihnen geteilt hat. (1.)
 Um Dateien und Ordner mit anderen Personen oder Gruppen zu teilen, klicken auf das Teilen-Symbol (2.).
@@ -214,9 +214,6 @@ einstellen, was die Person, mit denen sie ein Objekt teilen, damit anstellen kan
 .. image:: /bilder/cloud/dateien-teilen/4.png
 
 
-
-
-Haben Sie den Haken gesetzt
 
 
 Gelöschte Dateien
