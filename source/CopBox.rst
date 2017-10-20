@@ -203,11 +203,20 @@ Klicken Sie auf den gewünschten Namen. Dieser wird darauf unter dem Suchfeld ei
 
 .. image:: /bilder/cloud/dateien-teilen/3.png
 
-Neben dem Namen finden Sie weiter Optionen.
+Neben dem Namen finden Sie weitere Optionen.
 
 .. important:: Wenn Sie NICHT möchten, dass die Person, mit denen Sie ein Objekt geteilt haben, dieses bearbeiten kann, dann
-entfernen Sie den Haken neben "kann bearbeiten". Ist der Haken gesetzt, können Sie mit einem Klick auf die drei Punkte
-neben der Schaltfläche "kann bearbeiten"
+entfernen Sie den Haken neben "kann bearbeiten".
+
+Ist der Haken gesetzt, können Sie mit einem Klick auf die drei Punkte neben der Schaltfläche "kann bearbeiten" genauer
+einstellen, was die Person, mit denen sie ein Objekt teilen, damit anstellen kann.
+
+.. image:: /bilder/cloud/dateien-teilen/4.png
+
+
+
+
+Haben Sie den Haken gesetzt
 
 
 Gelöschte Dateien
