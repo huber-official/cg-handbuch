@@ -271,17 +271,83 @@ Ein Klick auf dieses Symbol bringt Sie wieder zurück zur Startseite, wo Sie ihr
 ^^^^^^^^^^^^^
 
 
-.. _dokumente-sk:
-
-"Dokumente"
-^^^^^^^^^^^^^
-
-
-
 .. _galerie-sk:
 
 "Galerie"
 ^^^^^^^^^^^^^
+
+
+.. _mail-sk:
+
+"E-Mail"
+^^^^^^^^^
+
+Unsere Copbox verfügt auch über einen E-Mail-Client, mit dem Sie zum Beispiel ihre Dienst-Emailadresse bequem abrufen können.
+Klicken Sie auf der "App-Leiste" auf den Briefumschlag, um die Mail-App (erstmals) zu starten.
+
+.. image:: /bilder/cloud/mail-app/1.png
+
+Jetzt kann es Weilchen dauern ( ca. 15 Sekunden), bis die App startet.
+Sie sehen dann einen Seite, auf der Sie zur Eingabe der Account-Informationen Ihres Email-Zugangs aufgefordert werden.
+
+
+.. _konfig-mails-sk:
+
+Konfiguration der Mail-App zum Abrufen der Dienst-Emails
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ .. important:: Das folgende Vorgehen beschreibt die Konfiguration der Mail-App zum Abrufen ihres Dienst-Emailaccounts. Sie können natürlich auch ein beliebige andere Emailadresse
+mit der Mail App verknüpfen. Die notwendigen Daten für eine Konfiguration mit einer beliebigen anderen Emailadresse müssen Sie selbst in Erfahrung bringen.
+
+.. image:: /bilder/cloud/mail-app/2.png
+
+1. Geben Sie ihre Dienst-Emailadresse im Feld "E-Mail-Adresse" ein
+
+2. Klicken Sie nun auf "Manuelle Einrichtung".
+
+Es öffnet sich ein Menu, in dem Sie noch einige Dinge eintragen müssen, um die Mail-App zu konfigurien.
+
+.. image:: /bilder/cloud/mail-app/3.png
+
+3. Geben im Feld "IMAP-Host" folgendes ein:  mbox1.belwue.de
+
+4. Klicken Sie auf die Schaltfläche "SSL/TLS" und wählen Sie die Option "STARTTLS" aus.
+
+5. Geben Sie nun im Feld "IMAP-Benutzer" ihre Dienst-Emailadresse ein und im Feld "IMAP-Passwort" das Passwort Ihres Dienst-Emailaccounts.
+
+6. Tragen Sie im Feld "SMTP-Host" ein: mbox1.belwue.de Sollte im Feld darunter nicht bereits "587      STARTTLS" voreingestellt sein, klicken Sie auf kleine Dreieck in diesem Feld
+und wählen "STARTTLS" aus.
+
+7. Im Feld "SMTP-Benutzer" geben Sie bitte erneut Ihre Dienst-Emailadresse ein und im Feld darunter ( "SMTP-Passwort") erneut der Passwort ihres Dienst-Emailaccounts.
+
+.. important:: Bitte kontrollieren, ob alle Daten korrekt sind !!!
+
+8. Um die Konfiguration abzuschließen, klicken Sie abschließend auf "Verbinden".
+
+Die App versucht nun, sich mit Ihrem Dienst-Emailaccount zu verbinden. Das kann wieder ein wenig dauern. Hat alles geklappt, öffnet sich die Startseite der Mail-App.
+
+
+
+.. _arbeiten-mail-sk:
+
+Arbeiten mit der Mail-App
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+War die Konfiguration erfolgreich, wird Ihnen die Startseite der Mail-App angezeigt, sobald Sie auf das Mail-Symbol in der "App-Leiste" der Cloud klicken.
+
+.. image:: /bilder/cloud/mail-app/4.png
+
+Die Startseite der Mail-App ähnelt herkömmlichen Mail-programmen und der Ansicht diverser Web-Mailer wie web.de o.ä
+
+Auf der linken Seite (1.) sehen Sie eine Übersicht über die Ordner Ihres Postfachs sowie ein Schaltfläche "+ Neue Nachricht" (das dürfte wohl selbsterklärend sein)
+In der Mitte (2.) sehen Sie eine Liste mit alles Mails, die sich in Ihrem Postfach befinden.
+Rechts (3.) zeigt die größte Spalte die aktuell markierte Mail an. Um eine Mail anzuzeigen, klicken Sie auf eine der Mails in der mittleren Spalte.
+
+
+
+
+
+
 
 
 .. _kreise-sk:
@@ -385,23 +451,13 @@ das funktioniert auf die übliche Art und Weise. Siehe dazu :ref:`dateien-teilen
 
 
 
-
-
-
-.. _kontakte-sk:
-
-"Kontakte"
-^^^^^^^^^^^^^
-
-
-
 .. _kalender-sk:
 
 "Kalender"
 ^^^^^^^^^^^^^
 
 Die Cloud verfügt über eine Kalender-App, mit dem man alle möglichen Termine verwalten kann.
-So könnten Sie zum Beispiel einen Terminkalender für Ihre eigene Klasse einrichten oder den "Klausuren- und Exkurisionenkalender" verwenden.
+So könnten Sie zum Beispiel einen Terminkalender für Ihre eigene Klasse einrichten oder den "Klausuren- und Exkursionenkalender" verwenden.
 Selbstverständlich können hier angelegte Kalender auch in beliebige Programme (Outlook, Thunderbird etc.) integrieren
 und mit diesen Programmen den Kalender sehr bequem bearbeiten.
 Natürlich können Sie mit dem Kalender auch in der Webansicht arbeiten.
@@ -540,11 +596,20 @@ Wenn alles geklappt hat, erscheint der Termin in der Kalenderübersicht in roter
 .. image:: /bilder/cloud/kalender-app/15.png
 
 
-"Lesezeichen"
+
+.. _audio-player-sk:
+
+"Audio-Player"
 ^^^^^^^^^^^^^
+
+
+.. _ankündigungen:
 
 "Ankündigungen"
 ^^^^^^^^^^^^^^^^
+
+
+.. _benutzerhandbuch:
 
 Benutzerhandbuch
 ^^^^^^^^^^^^^^^^
