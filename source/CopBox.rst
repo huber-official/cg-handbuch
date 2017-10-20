@@ -394,7 +394,7 @@ Siehe dazu den folgende Link ( :ref:`zugriff-sk` )
 
 
 Cloud-Kalender in Thunderbird importieren
-''''''''''''''''''''''''''''''''''''''''''
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 1. Auf der Startseite der Cloud auf Kalendericon klicken. (1.)
@@ -451,7 +451,7 @@ Diese können Sie nach Belieben ändern, indem Sie nach einem Rechtsklick auf de
 
 
 Arbeiten mit einem Kalender in einem Email-Programm (Hier am Beispiel Thunderbird)
-'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 1. Im Kalenderfenster von Thunderbird (Termine und Aufgaben -> Kalender) Doppelklick in ein Feld.
 
@@ -470,7 +470,7 @@ klicken Sie auf "Synchronisieren", um den angelegten Termin mit dem entfernten K
 .. image:: /bilder/cloud/kalender-app/10.png
 
 Eine Klassenarbeit oder eine Exkursion in den Kalender "Arbeiten u. Exkursionen" eintragen
-''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Seit Schuljahresbeginn (2017/18) existieren für die Lehrer mehrere Kalender in der Cloud, in denen jeder seine Klassenarbeiten und Exkursionen
 eintragen kann.
