@@ -74,6 +74,8 @@ Nach der erfolgreichen Anmeldung im Browser gelangen sie zur Startseite der Clou
 
 Den meisten Platz nimmt die Übersicht über die Ordner und Dateien, die sich in ihrem Cloudverzeichnis befinden (1.).
 Weiterhin sehen sie am linken Rand einen Bereich, der Ihnen bei Bedarf genauere Informationen über die von oder mit Ihnen geteilten Dateien bietet (2.).
+Einen schnellen Überblick, wer Ihnen eine Datei oder einen Ordner geteilt hat, finden Sie rechts neben den Dateien/Ordnern. Steht da lediglich "Geteilt", klicken
+Sie auf dieses Wort, um genauere Informationen zu erhalten.
 Links oben neben dem Cloud-Symbol befinden sich die verschiedenen Anwendungen ("Apps"), die Ihnen die Cloud bietet(3.).
 
 Sie sehen folgende Bereiche (von links nach rechts):
@@ -194,25 +196,38 @@ Es öffnet sich rechts ein Bereich, der Detail des zu teilenden Objekts enthält
 
 .. image:: /bilder/cloud/dateien-teilen/2.png
 
-Um eine Datei oder einen Ordner zu teilen, stellen Sie sicher, dass das Wort "Teilen" markiert (fett und unterstrichen) ist.
+Um eine Datei oder einen Ordner zu teilen, stellen Sie sicher, dass das Wort "Teilen" markiert (fett und unterstrichen) ist (1.).
 Falls Sie eine Bemerkung zu der ausgewählten Datei abgeben möchten, klicken Sie auf "Kommentare". Personen, mit denen Sie
 diese Datei teilen, können diesen Kommentar sehen.
 Haben Sie auf "Teilen" geklickt, sehen Sie ein Eingabefeld, in das Sie den Namen der Person oder Gruppe eintragen, mit dem Sie die
-Datei(en) oder Ordner teilen möchten.
-Klicken Sie auf den gewünschten Namen. Dieser wird darauf unter dem Suchfeld eingeblendet.
+Datei(en) oder Ordner teilen möchten (2.).
+Erscheint der richtige Name, klicken Sie auf ihn und die Datei oder der Ordner wird mit der entsprechenden Person oder Gruppe geteilt.
+Setzen Sie den Haken in der Box "Link teilen", wenn Sie nur den Link zu einem bestimmten Objekt teilen wollen (3.). Den auftauchenden Link können Sie z. B.
+per Email verschicken. Der Empfänger kann dann auf das verlinkte Objekt zugreifen. Praktisch, wenn Sie eine Datei mit jemandem teilen möchten, der sonst keinen Zugang
+zu dieser Cloud hat.
 
 .. image:: /bilder/cloud/dateien-teilen/3.png
 
-Neben dem Namen finden Sie weitere Optionen.
 
-.. important:: Wenn Sie NICHT möchten, dass die Person, mit denen Sie ein Objekt geteilt haben, dieses bearbeiten kann, dann
-entfernen Sie den Haken neben "kann bearbeiten".
+.. important:: Wenn Sie NICHT möchten, dass die Person, mit denen Sie ein Objekt geteilt haben, dieses bearbeiten kann, dann entfernen Sie den Haken neben "kann bearbeiten".
 
-Ist der Haken gesetzt, können Sie mit einem Klick auf die drei Punkte neben der Schaltfläche "kann bearbeiten" genauer
-einstellen, was die Person, mit denen sie ein Objekt teilen, damit anstellen kann.
+
+Neben dem Namen finden Sie weitere Optionen. Setzen Sie den Haken, wenn Sie ein Bearbeiten der Datei etc. erlauben möchten.
+Wenn Sie dann auf die drei Punkte neben Namen der Person, die etwas geteilt bekommt, klicken, öffnet sich ein Fenster mit verschiedenen Optionen,
+die es Ihnen erlauben zu bestimmen, was die andere Person mit dem Objekt anstellen darf. Setzen Sie die Haken, wie es Ihnen am besten erscheint.
 
 .. image:: /bilder/cloud/dateien-teilen/4.png
 
+
+Die Teilung wieder aufheben
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Haben Sie versehentlich die falsche Datei geteilt oder etwas mit der falschen Person oder Gruppe geteilt, haben Sie in den Optionen, die sich hinter den drei Punkten
+verbergen, die Möglichkeit, die Teilung wieder rückkgängig zu machen. Klicken Sie einfach auf den letzten Eintrag in der Liste der Optionen "Freigabe aufheben".
+
+.. image:: /bilder/cloud/dateien-teilen/5.png
+
+Das geteilte Objekt verschwindet daraufhin aus dem Cloudverzeichnis der Person(en), mit der Sie es geteilt haben.
 
 
 Gelöschte Dateien
@@ -268,10 +283,11 @@ Ein Klick auf dieses Symbol bringt Sie wieder zurück zur Startseite, wo Sie ihr
 "Galerie"
 ^^^^^^^^^^^^^
 
+
 .. _kreise-sk:
 
 "Kreise" - Gruppen erstellen
-^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Diese App bietet Ihnen die Möglichkeit, Gruppen zu erstellen, um Dateien gleichzeitig mit mehreren Benutzern zu teilen
 oder an geteilten Dateien zu arbeiten (Oberstufenkurs, Fachschaften, AGs). Es besteht mit dieser App nicht mehr die Notwendigkeit,
@@ -293,12 +309,11 @@ Die Startseite der App ist in drei Teile gegliedert:
 bestimmten Gruppen suchen oder die Liste der vorhandenen Gruppen filtern nach a) Kreisen, denen Sie angehören
 oder b) Kreisen, deren Besitzer Sie sind (Kreise, die Sie erstellt haben).
 
-3. Hier sehen Sie eine Übersicht über die momentan ausgewählte Gruppe und ihre Mitglieder.
- Je nach Art der Gruppe ("Persönliche Kreise", "Öffentliche Kreise", "Geschlossene Kreise", "Geheime Kreise")
- können Sie hier weitere Teilnehmer einladen. Wenn Sie der Besitzer/ Ersteller des Kreises sind, können Sie hier
- immer neue Mitglieder in den Kreis/ die Gruppe aufnehmen.
+3. Hier sehen Sie eine Übersicht über die momentan ausgewählte Gruppe und ihre Mitglieder. Je nach Art der Gruppe ("Persönliche Kreise", "Öffentliche Kreise", "Geschlossene Kreise", "Geheime Kreise")
+können Sie hier weitere Teilnehmer einladen. Wenn Sie der Besitzer/ Ersteller des Kreises sind, können Sie hier immer neue Mitglieder in den Kreis/ die Gruppe aufnehmen.
 
- Einen Kreis erstellen
+
+Einen Kreis erstellen
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Um eine Gruppe zu erstellen, gehen Sie folgendermaßen vor:
@@ -331,6 +346,7 @@ Abschließen klicken Sie auf die Schaltfläche "Creation",  um den Kreis zu erst
 
 .. image:: /bilder/cloud/kreise-app/8.png
 
+
 Personen zu einem Kreis hinzufügen
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -350,6 +366,7 @@ klicken Sie auf den Status. Es öffnet sich ein Dropdown-Menu, das Ihnen anbiete
 
 .. image:: /bilder/cloud/kreise-app/10.png
 
+
 Einen Kreis löschen
 ~~~~~~~~~~~~~~~~~~~~
 
@@ -358,6 +375,7 @@ Der Kreis wird nun im rechten Bereich der Seite angezeigt (3.). Klicken Sie rech
 zu löschen. Es erscheint ein Pop-up-Menu, das Sie auffodert, das Löschen zu bestätigen.
 
 .. important:: Bitte beachten Sie, dass Sie nur dann einen Kreis löschen können, wenn Sie der Eigentümer des Kreises sind.
+
 
 Dateien mit einem Kreis teilen
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -526,7 +544,7 @@ Wenn alles geklappt hat, erscheint der Termin in der Kalenderübersicht in roter
 ^^^^^^^^^^^^^
 
 "Ankündigungen"
-^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^
 
 Benutzerhandbuch
 ^^^^^^^^^^^^^^^^
