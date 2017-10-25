@@ -514,7 +514,7 @@ Dann auf "Weiter" klicken.
 
 .. image:: /bilder/cloud/kalender-app/7.png
 
-10. Im darauf folgenden Fenster sollte jetzt die Meldung "Ihr Kalender wurde erstellt" erscheinen.
+11. Im darauf folgenden Fenster sollte jetzt die Meldung "Ihr Kalender wurde erstellt" erscheinen.
 Wenn ja,  auf "Fertigstellen" klicken. (13.)
 
 .. image:: /bilder/cloud/kalender-app/8.png
@@ -586,8 +586,7 @@ Es öffnet sich ein Fenster, in das sie bitte den Namen des Eintrags eintragen (
 
 .. image:: /bilder/cloud/kalender-app/13.png
 
-.. important:: Achten Sie darauf, dass Sie den richtigen Kalender ausgewählt haben. Klicken Sie auf das Dropdown-Menu und wählen Sie den Kalender derjenigen Klasse, in den Sie eine Klassenarbeit oder eine Exkursion
-eintragen möchten, z. B. "6a".
+.. important:: Achten Sie darauf, dass Sie den richtigen Kalender ausgewählt haben. Klicken Sie auf das Dropdown-Menu und wählen Sie den Kalender derjenigen Klasse, in den Sie eine Klassenarbeit oder eine Exkursion eintragen möchten, z. B. "6a".
 
 Sind alle Angaben korrekt und der richtige Kalender ausgewählt, klicken Sie auf die Schaltfläche "Erstellen" unten rechts.
 
@@ -596,6 +595,46 @@ Sind alle Angaben korrekt und der richtige Kalender ausgewählt, klicken Sie auf
 Wenn alles geklappt hat, erscheint der Termin in der Kalenderübersicht in roter Farbe! Der Termin ist nun für alle anderen Kollegen sichtbar.
 
 .. image:: /bilder/cloud/kalender-app/15.png
+
+
+Einen neuen Kalender erstellen und diesen mit anderen teilen
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Selbstverständlich können Sie auch selbst einen weiteren Kalender erstellen und diesen mit anderen Personen oder Gruppen teilen:
+1. Öffnen Sie die Kalender-App und klicken Sie links auf die Schaltfläche "+ Neuer Kalender"
+
+.. image:: /bilder/cloud/kalender-app/17.png
+
+2. Geben Sie nun in dem darunter liegenden Feld einen Namen für den neuen Kalender an.
+
+3. Wenn Sie möchten, wählen Sie eine Farbe für diesen Kalender aus.
+
+4. Klicken Sie abschließend auf "Erstellen", um den Kalender anzulegen.
+
+.. image:: /bilder/cloud/kalender-app/18.png
+
+5. Sie finden den neu angelegten Kalender nach einem kurzen Moment in der Liste der Kalender (diese ist alphabetisch sortiert, allerdings steht der "Persönliche Kalender" immer ganz oben).
+
+.. image:: /bilder/cloud/kalender-app/19.png
+
+6. Um diesen Kalender mit anderen Personen oder Gruppen/Kreisen zu teilen, klicken sie auf das Teilen-Symbol.
+
+7. Tippen Sie den Namen der Person (mit dem Vornamen beginnend) oder Gruppe ein und
+
+8. Klicen Sie auf den entsprechenden Eintrag.
+
+.. image:: /bilder/cloud/kalender-app/20.png
+
+9. Haben Sie die falsche Person oder Gruppe ausgewählt, klicken Sie auf das Mülleimer-Symbol neben dem Personen- oder Gruppennamen, um die Teilung mit diesen Personen oder Gruppen rückgängig zu machen.
+
+10. Setzen Sie den Haken neben "kann bearbeiten", wenn Sie möchten, dass die Person oder die Mitglieder der Gruppe, mit denen Sie den Kalender teilen, diesen auch bearbeiten (Termine eintragen, löschen, verändern) sollen dürfen. Setzen Sie den Haken nicht, wenn die Personen oder Gruppen, mit denen Sie diesen Ordner teilen, diesen nur lesen (anschauen) dürfen.
+
+.. image:: /bilder/cloud/kalender-app/21.png
+
+11. Setzen Sie den Haken neben "Link teilen", wenn Sie den Kalender mit jemandem teilen möchten, der kein Nutzer der Copbox ist.
+Klicken Sie auf den schwarzen Briefumschlage, und geben Sie dazu in das erscheinende Feld ("Link per E-Mail versenden") die Emailadresse der betreffenden Person ein und klicken Sie abschließend auf "Senden".
+
+.. image:: /bilder/cloud/kalender-app/22.png
 
 
 
