@@ -545,7 +545,7 @@ klicken Sie auf "Synchronisieren", um den angelegten Termin mit dem entfernten K
 
 .. image:: /bilder/cloud/kalender-app/10.png
 
-Eine Klassenarbeit oder eine Exkursion in den Kalender "Arbeiten u. Exkursionen" eintragen
+Eine Klassenarbeit oder eine Exkursion eintragen
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Seit Schuljahresbeginn (2017/18) existieren für die Lehrer mehrere Kalender in der Cloud, in die jeder seine Klassenarbeiten und Exkursionen
@@ -575,7 +575,7 @@ Wenn Sie nun also eine Klassenarbeit oder eine Exkursion in den gemeinsamen Kale
 3. Sie werden zur Kalender-App weitergeleitet. Die meisten Platz auf dem Bildschirm nimmt die Kalenderübersicht ein. Ein Kästchen pro Tag.
 Links oben sehen sie den angezeigten Monat und das Jahr. Klicken Sie auf die Pfeile links oder rechts neben Anzeige von Monat und Jahr, um zum gewünschten Termin zu gelangen.
 Klicken Sie auf die Schaltflächen "Tag", "Woche", "Monat" oder "Heute", um die Ansicht zu ändern. Die Übersicht rechts verändert sich entsprechend.
-Weiterhin sehen Sie links alle Kalender die sie angelegt haben, oder die mit Ihnen geteilt wurden. Das sind wahrscheinlich nur zwei. Ein blau markierter mit dem Namen "Persönlich" für ihre eigenen Termine und einen rot markierten darunter mit dem Namen "Arbeiten und Exkursionen".
+Weiterhin sehen Sie links alle Kalender die sie angelegt haben, oder die mit Ihnen geteilt wurden. Das sind wahrscheinlich nur zwei. Ein blau markierter mit dem Namen "Persönlich" für ihre eigenen Termine und eine ganze Reihe anderer Kalender, die nach den jeweiligen Klassen benannt sind".
 
 .. image:: /bilder/cloud/kalender-app/12.png
 
@@ -587,6 +587,8 @@ Es öffnet sich ein Fenster, in das sie bitte den Namen des Eintrags eintragen (
 .. image:: /bilder/cloud/kalender-app/13.png
 
 .. important:: Achten Sie darauf, dass Sie den richtigen Kalender ausgewählt haben. Klicken Sie auf das Dropdown-Menu und wählen Sie den Kalender derjenigen Klasse, in den Sie eine Klassenarbeit oder eine Exkursion eintragen möchten, z. B. "6a".
+
+.. important:: Bitte bedenken Sie, dass sie im Falle von geklappten Klassen, den gewünschten Termin in alle die Klassen seperat eintragen, aus denen ihre geklappte Klasse besteht. Haben Sie also zum Beispiel Religion mit Schülern aus den Klassen 7a und 7b, müssen Sie den Termin auch in die Kalender 7a und 7b eintragen!!!
 
 Sind alle Angaben korrekt und der richtige Kalender ausgewählt, klicken Sie auf die Schaltfläche "Erstellen" unten rechts.
 
