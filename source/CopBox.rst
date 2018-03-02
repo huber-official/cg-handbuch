@@ -588,7 +588,7 @@ Es öffnet sich ein Fenster, in das sie bitte den Namen des Eintrags eintragen (
 
 .. important:: Achten Sie darauf, dass Sie den richtigen Kalender ausgewählt haben. Klicken Sie auf das Dropdown-Menu und wählen Sie den Kalender derjenigen Klasse, in den Sie eine Klassenarbeit oder eine Exkursion eintragen möchten, z. B. "6a".
 
-.. important:: Bitte bedenken Sie, dass sie im Falle von geklappten Klassen, den gewünschten Termin in alle die Klassen seperat eintragen, aus denen ihre geklappte Klasse besteht. Haben Sie also zum Beispiel Religion mit Schülern aus den Klassen 7a und 7b, müssen Sie den Termin auch in die Kalender 7a und 7b eintragen!!!
+.. important:: Bitte bedenken Sie, dass sie im Falle von geklappten Klassen den gewünschten Termin in alle die Klassen seperat eintragen, aus denen ihre geklappte Klasse besteht. Haben Sie also zum Beispiel Religion mit Schülern aus den Klassen 7a und 7b, müssen Sie den Termin auch in die Kalender 7a und 7b eintragen!!!
 
 Sind alle Angaben korrekt und der richtige Kalender ausgewählt, klicken Sie auf die Schaltfläche "Erstellen" unten rechts.
 
