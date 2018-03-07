@@ -74,6 +74,8 @@ Nach der erfolgreichen Anmeldung im Browser gelangen sie zur Startseite der Clou
 
 Den meisten Platz nimmt die Übersicht über die Ordner und Dateien, die sich in ihrem Cloudverzeichnis befinden (1.).
 Weiterhin sehen sie am linken Rand einen Bereich, der Ihnen bei Bedarf genauere Informationen über die von oder mit Ihnen geteilten Dateien bietet (2.).
+Einen schnellen Überblick, wer Ihnen eine Datei oder einen Ordner geteilt hat, finden Sie rechts neben den Dateien/Ordnern. Steht da lediglich "Geteilt", klicken
+Sie auf dieses Wort, um genauere Informationen zu erhalten.
 Links oben neben dem Cloud-Symbol befinden sich die verschiedenen Anwendungen ("Apps"), die Ihnen die Cloud bietet(3.).
 
 Sie sehen folgende Bereiche (von links nach rechts):
@@ -200,20 +202,19 @@ diese Datei teilen, können diesen Kommentar sehen.
 Haben Sie auf "Teilen" geklickt, sehen Sie ein Eingabefeld, in das Sie den Namen der Person oder Gruppe eintragen, mit dem Sie die
 Datei(en) oder Ordner teilen möchten (2.).
 Erscheint der richtige Name, klicken Sie auf ihn und die Datei oder der Ordner wird mit der entsprechenden Person oder Gruppe geteilt.
-Setzen Sie den Haken in der Box "Link teilen", wenn Sie nur den Link zu einem bestimmten Objekt teilen wollen. Den auftauchenden Link können Sie z. B.
+Setzen Sie den Haken in der Box "Link teilen", wenn Sie nur den Link zu einem bestimmten Objekt teilen wollen (3.). Den auftauchenden Link können Sie z. B.
 per Email verschicken. Der Empfänger kann dann auf das verlinkte Objekt zugreifen. Praktisch, wenn Sie eine Datei mit jemandem teilen möchten, der sonst keinen Zugang
 zu dieser Cloud hat.
 
 .. image:: /bilder/cloud/dateien-teilen/3.png
 
 
-.. important:: Wenn Sie NICHT möchten, dass die Person, mit denen Sie ein Objekt geteilt haben, dieses bearbeiten kann, dann
-entfernen Sie den Haken neben "kann bearbeiten".
+.. important:: Wenn Sie NICHT möchten, dass die Person, mit denen Sie ein Objekt geteilt haben, dieses bearbeiten kann, dann entfernen Sie den Haken neben "kann bearbeiten".
 
 
-Neben dem Namen finden Sie weitere Optionen. Setzen Sie den Haken, wenn ein Bearbeiten der Datei etc. erlauben möchten.
+Neben dem Namen finden Sie weitere Optionen. Setzen Sie den Haken, wenn Sie ein Bearbeiten der Datei etc. erlauben möchten.
 Wenn Sie dann auf die drei Punkte neben Namen der Person, die etwas geteilt bekommt, klicken, öffnet sich ein Fenster mit verschiedenen Optionen,
-die es Ihnen erlauben zu bestimmen, was die andere Person mit dem Objekt anstellen darf.
+die es Ihnen erlauben zu bestimmen, was die andere Person mit dem Objekt anstellen darf. Setzen Sie die Haken, wie es Ihnen am besten erscheint.
 
 .. image:: /bilder/cloud/dateien-teilen/4.png
 
@@ -225,6 +226,8 @@ Haben Sie versehentlich die falsche Datei geteilt oder etwas mit der falschen Pe
 verbergen, die Möglichkeit, die Teilung wieder rückkgängig zu machen. Klicken Sie einfach auf den letzten Eintrag in der Liste der Optionen "Freigabe aufheben".
 
 .. image:: /bilder/cloud/dateien-teilen/5.png
+
+Das geteilte Objekt verschwindet daraufhin aus dem Cloudverzeichnis der Person(en), mit der Sie es geteilt haben.
 
 
 Gelöschte Dateien
@@ -268,17 +271,85 @@ Ein Klick auf dieses Symbol bringt Sie wieder zurück zur Startseite, wo Sie ihr
 ^^^^^^^^^^^^^
 
 
-.. _dokumente-sk:
-
-"Dokumente"
-^^^^^^^^^^^^^
-
-
-
 .. _galerie-sk:
 
 "Galerie"
 ^^^^^^^^^^^^^
+
+
+.. _mail-sk:
+
+"E-Mail"
+^^^^^^^^^
+
+Unsere Copbox verfügt auch über einen E-Mail-Client, mit dem Sie zum Beispiel ihre Dienst-Emailadresse bequem abrufen können.
+Klicken Sie auf der "App-Leiste" auf den Briefumschlag, um die Mail-App (erstmals) zu starten.
+
+.. image:: /bilder/cloud/mail-app/1.png
+
+Jetzt kann es Weilchen dauern ( ca. 15 Sekunden), bis die App startet.
+Sie sehen dann eine Seite, auf der Sie zur Eingabe der Account-Informationen Ihres Email-Zugangs aufgefordert werden.
+
+
+.. _konfig-mails-sk:
+
+Konfiguration der Mail-App zum Abrufen der Dienst-Emails
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+ .. important:: Das folgende Vorgehen beschreibt die Konfiguration der Mail-App zum Abrufen ihres Dienst-Emailaccounts. Sie können natürlich auch eine beliebige andere Emailadresse mit der Mail App verknüpfen. Die notwendigen Daten für eine Konfiguration mit einer beliebigen anderen Emailadresse müssen Sie selbst in Erfahrung bringen.
+
+.. image:: /bilder/cloud/mail-app/2.png
+
+1. Geben Sie ihre Dienst-Emailadresse im Feld "E-Mail-Adresse" ein.
+
+2. Klicken Sie nun auf "Manuelle Einrichtung".
+
+Es öffnet sich ein Menu, in dem Sie noch einige Dinge eintragen müssen, um die Mail-App zu konfigurieren.
+
+.. image:: /bilder/cloud/mail-app/3.png
+
+3. Geben im Feld "IMAP-Host" folgendes ein:  mbox1.belwue.de
+
+4. Klicken Sie auf die Schaltfläche "SSL/TLS" und wählen Sie die Option "STARTTLS" aus.
+
+5. Geben Sie nun im Feld "IMAP-Benutzer" ihre Dienst-Emailadresse ein und im Feld "IMAP-Passwort" das Passwort Ihres Dienst-Emailaccounts.
+
+6. Tragen Sie im Feld "SMTP-Host" ein: mbox1.belwue.de
+
+.. important:: Sollte im Feld darunter nicht bereits "587      STARTTLS" voreingestellt sein, klicken Sie auf das kleine Dreieck in diesem Feld und wählen "STARTTLS" aus.
+
+7. Im Feld "SMTP-Benutzer" geben Sie bitte erneut Ihre Dienst-Emailadresse ein und im Feld darunter ( "SMTP-Passwort") erneut der Passwort ihres Dienst-Emailaccounts.
+
+.. important:: Bitte kontrollieren, ob alle Daten korrekt sind !!!
+
+8. Um die Konfiguration abzuschließen, klicken Sie abschließend auf "Verbinden".
+
+Die App versucht nun, sich mit Ihrem Dienst-Emailaccount zu verbinden. Das kann wieder ein wenig dauern. Hat alles geklappt, öffnet sich die Startseite der Mail-App.
+
+
+
+
+
+.. _arbeiten-mail-sk:
+
+Arbeiten mit der Mail-App
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+War die Konfiguration erfolgreich, wird Ihnen die Startseite der Mail-App angezeigt, sobald Sie auf das Mail-Symbol in der "App-Leiste" der Cloud klicken.
+
+.. image:: /bilder/cloud/mail-app/4.png
+
+Die Startseite der Mail-App ähnelt herkömmlichen Mail-programmen und der Ansicht diverser Web-Mailer wie web.de o.ä.
+
+Auf der linken Seite (1.) sehen Sie eine Übersicht über die Ordner Ihres Postfachs sowie eine Schaltfläche "+ Neue Nachricht" (das dürfte wohl selbsterklärend sein)
+In der Mitte (2.) sehen Sie eine Liste mit allen Mails, die sich in Ihrem Postfach befinden.
+Rechts (3.) zeigt die größte Spalte die aktuell markierte Mail an. Um eine Mail anzuzeigen, klicken Sie auf eine der Mails in der mittleren Spalte.
+
+
+
+
+
+
 
 
 .. _kreise-sk:
@@ -382,23 +453,13 @@ das funktioniert auf die übliche Art und Weise. Siehe dazu :ref:`dateien-teilen
 
 
 
-
-
-
-.. _kontakte-sk:
-
-"Kontakte"
-^^^^^^^^^^^^^
-
-
-
 .. _kalender-sk:
 
 "Kalender"
 ^^^^^^^^^^^^^
 
 Die Cloud verfügt über eine Kalender-App, mit dem man alle möglichen Termine verwalten kann.
-So könnten Sie zum Beispiel einen Terminkalender für Ihre eigene Klasse einrichten oder den "Klausuren- und Exkurisionenkalender" verwenden.
+So könnten Sie zum Beispiel einen Terminkalender für Ihre eigene Klasse einrichten oder den "Klausuren- und Exkursionenkalender" verwenden.
 Selbstverständlich können hier angelegte Kalender auch in beliebige Programme (Outlook, Thunderbird etc.) integrieren
 und mit diesen Programmen den Kalender sehr bequem bearbeiten.
 Natürlich können Sie mit dem Kalender auch in der Webansicht arbeiten.
@@ -453,7 +514,7 @@ Dann auf "Weiter" klicken.
 
 .. image:: /bilder/cloud/kalender-app/7.png
 
-10. Im darauf folgenden Fenster sollte jetzt die Meldung "Ihr Kalender wurde erstellt" erscheinen.
+11. Im darauf folgenden Fenster sollte jetzt die Meldung "Ihr Kalender wurde erstellt" erscheinen.
 Wenn ja,  auf "Fertigstellen" klicken. (13.)
 
 .. image:: /bilder/cloud/kalender-app/8.png
@@ -484,10 +545,10 @@ klicken Sie auf "Synchronisieren", um den angelegten Termin mit dem entfernten K
 
 .. image:: /bilder/cloud/kalender-app/10.png
 
-Eine Klassenarbeit oder eine Exkursion in den Kalender "Arbeiten u. Exkursionen" eintragen
+Eine Klassenarbeit oder eine Exkursion eintragen
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Seit Schuljahresbeginn (2017/18) existieren für die Lehrer mehrere Kalender in der Cloud, in denen jeder seine Klassenarbeiten und Exkursionen
+Seit Schuljahresbeginn (2017/18) existieren für die Lehrer mehrere Kalender in der Cloud, in die jeder seine Klassenarbeiten und Exkursionen
 eintragen kann.
 
 .. image:: /bilder/cloud/kalender-app/16.png
@@ -501,7 +562,7 @@ oder auch in eine entsprechende App einbinden, um die Kalender auch auf mobilen 
 anlegt hat das vorige Kapitel beschrieben (Für Outlook und andere gilt ein ähnliches Vorgehen).
 Dieses Kapitel beschreibt, wie man eine Klassenarbeit oder eine Exkursion in diese Kalender einträgt, wenn man die Kalender im Browser benutzt.
 
-.. important:: Allerdings sollten Sie folgende Punkte bedenken:  1. Der Netzwerkberater stellt die Funktionalität bereit und ist nicht für fehlerhafte oder nicht korrekt angelegte Einträge verantwortlich. Vergewissern Sie sich daher bitte immer,a) ob der Inhalt des Eintrags korrekt ist, b) der Eintrag in dem richtigen Kalender ("Arbeiten u. Exkursionen") angelegt wurde und c), dass der Eintrag gespeichtert wurde. Bedenken Sie weiterhin, dass Sie die Einträge der Kollegen verändern und löschen können. Bitte vermeiden Sie dies unbedingt.
+.. important:: Allerdings sollten Sie folgende Punkte bedenken:  Der Netzwerkberater stellt die Funktionalität bereit und ist nicht für fehlerhafte oder nicht korrekt angelegte Einträge verantwortlich. Vergewissern Sie sich daher bitte immer,a) ob der Inhalt des Eintrags korrekt ist, b) der Eintrag in dem richtigen Kalender ("Arbeiten u. Exkursionen") angelegt wurde und c), dass der Eintrag gespeichtert wurde. Bedenken Sie weiterhin, dass Sie die Einträge der Kollegen verändern und löschen können. Bitte vermeiden Sie dies unbedingt.
 
 Wenn Sie nun also eine Klassenarbeit oder eine Exkursion in den gemeinsamen Kalender eintragen möchten und dabei die Webansicht des Kalender verwenden möchten, gehen bitte wie folgt vor:
 
@@ -525,8 +586,7 @@ Es öffnet sich ein Fenster, in das sie bitte den Namen des Eintrags eintragen (
 
 .. image:: /bilder/cloud/kalender-app/13.png
 
-.. important:: Achten Sie darauf, dass Sie den richtigen Kalender ausgewählt haben. Klicken Sie auf das Dropdown-Menu und wählen Sie den Kalender derjenigen Klasse, in den Sie eine Klassenarbeit oder eine Exkursion
-eintragen möchten, z. B. "6a".
+.. important:: Achten Sie darauf, dass Sie den richtigen Kalender ausgewählt haben. Klicken Sie auf das Dropdown-Menu und wählen Sie den Kalender derjenigen Klasse, in den Sie eine Klassenarbeit oder eine Exkursion eintragen möchten, z. B. "6a".
 
 Sind alle Angaben korrekt und der richtige Kalender ausgewählt, klicken Sie auf die Schaltfläche "Erstellen" unten rechts.
 
@@ -537,11 +597,60 @@ Wenn alles geklappt hat, erscheint der Termin in der Kalenderübersicht in roter
 .. image:: /bilder/cloud/kalender-app/15.png
 
 
-"Lesezeichen"
+Einen neuen Kalender erstellen und diesen mit anderen teilen
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Selbstverständlich können Sie auch selbst einen weiteren Kalender erstellen und diesen mit anderen Personen oder Gruppen teilen:
+1. Öffnen Sie die Kalender-App und klicken Sie links auf die Schaltfläche "+ Neuer Kalender"
+
+.. image:: /bilder/cloud/kalender-app/17.png
+
+2. Geben Sie nun in dem darunter liegenden Feld einen Namen für den neuen Kalender an.
+
+3. Wenn Sie möchten, wählen Sie eine Farbe für diesen Kalender aus.
+
+4. Klicken Sie abschließend auf "Erstellen", um den Kalender anzulegen.
+
+.. image:: /bilder/cloud/kalender-app/18.png
+
+5. Sie finden den neu angelegten Kalender nach einem kurzen Moment in der Liste der Kalender (diese ist alphabetisch sortiert, allerdings steht der "Persönliche Kalender" immer ganz oben).
+
+.. image:: /bilder/cloud/kalender-app/19.png
+
+6. Um diesen Kalender mit anderen Personen oder Gruppen/Kreisen zu teilen, klicken sie auf das Teilen-Symbol.
+
+7. Tippen Sie den Namen der Person (mit dem Vornamen beginnend) oder Gruppe ein und
+
+8. Klicen Sie auf den entsprechenden Eintrag.
+
+.. image:: /bilder/cloud/kalender-app/20.png
+
+9. Haben Sie die falsche Person oder Gruppe ausgewählt, klicken Sie auf das Mülleimer-Symbol neben dem Personen- oder Gruppennamen, um die Teilung mit diesen Personen oder Gruppen rückgängig zu machen.
+
+10. Setzen Sie den Haken neben "kann bearbeiten", wenn Sie möchten, dass die Person oder die Mitglieder der Gruppe, mit denen Sie den Kalender teilen, diesen auch bearbeiten (Termine eintragen, löschen, verändern) sollen dürfen. Setzen Sie den Haken nicht, wenn die Personen oder Gruppen, mit denen Sie diesen Ordner teilen, diesen nur lesen (anschauen) dürfen.
+
+.. image:: /bilder/cloud/kalender-app/21.png
+
+11. Setzen Sie den Haken neben "Link teilen", wenn Sie den Kalender mit jemandem teilen möchten, der kein Nutzer der Copbox ist.
+Klicken Sie auf den schwarzen Briefumschlage, und geben Sie dazu in das erscheinende Feld ("Link per E-Mail versenden") die Emailadresse der betreffenden Person ein und klicken Sie abschließend auf "Senden".
+
+.. image:: /bilder/cloud/kalender-app/22.png
+
+
+
+.. _audio-player-sk:
+
+"Audio-Player"
 ^^^^^^^^^^^^^
+
+
+.. _ankündigungen:
 
 "Ankündigungen"
 ^^^^^^^^^^^^^^^^
+
+
+.. _benutzerhandbuch:
 
 Benutzerhandbuch
 ^^^^^^^^^^^^^^^^

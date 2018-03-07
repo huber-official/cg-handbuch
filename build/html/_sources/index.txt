@@ -23,7 +23,6 @@ Willkommen zum Leitfaden zur Benutzung des Netzwerks!
    Hinweise zum Drucken
    CopBox
    Feedback und Fehlermeldungen - Flyspray
-   Dieses und weitere Dokumente zum Schulnetz
    LICENSE
 
 Indices and tables

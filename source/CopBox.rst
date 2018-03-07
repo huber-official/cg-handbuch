@@ -1,19 +1,6 @@
-CopBox [#cloud]_
+Zugriff auf die Cloud
 ====================================
 
-Seit einiger Zeit verfügen wir über einen eigenen Nextcloud-Server, sodass wir ab jetzt die Vorteile einer Cloud ohne datenschutzrechtliche Bedenken nutzen können. Wenn Sie bereits mit Dropbox, Onedrive, Icloud, GoogleDrive o.ä arbeiten, sind Ihnen die Vorteile einer Cloud sicherlich bekannt.
-
-Vorteile der Cloud
------------------------
-
-- einfaches Synchronisieren von Dateien zwischen Laptop, Handy und dem PC an der Schule (via Browser) und damit problemloser „Transport“ von Dateien.
-- Einfaches Teilen von Dateien mit Kollegen, Klassen, Kursen
-- Kalenderfunktion
-- Notizfunktion
-- Onlinebearbeitung von Dokumenten
-
-
-.. _zugriff-sk:
 
 Zugriff auf die Cloud
 -------------------------
@@ -554,7 +541,7 @@ eintragen kann.
 .. image:: /bilder/cloud/kalender-app/16.png
 
 Für jede Klasse bzw. Klassenstufe wurde ein eigener Kalender erstellt! Damit die Übersichtlichkeit gewahrt bleibt, kann man alle Kalender, die man nicht zu sehen wünscht, mit einem Klick
-auf den farbigen Punkt links neben dem Kalendernamen, ausblenden. Übrig bleiben in der Terminübersich rechts dann nur die farbig markierten Kalender.
+auf den farbigen Punkt links neben dem Kalendernamen, ausblenden. Übrig bleiben in der Terminübersicht rechts dann nur die farbig markierten Kalender.
 Ziel dieser Kalender ist es, den z.T. unübersichtlichen Plan, in den jeder handschriflich seine Arbeiten eingetragen hat, zu ersetzen.
 Der Vorteil liegt auf der Hand: Man kann in Ruhe zu Hause seine Klassenarbeit planen und eintragen, da die Kalender rund um die Uhr auch von
 zu Hause (oder von anderswo) aus erreichbar sind. Man kann diese Kalender bequem in ein Email-Programm mit Kalenderfunktion einbinden (Thunderbird, Outlook, Apple-Variante)
