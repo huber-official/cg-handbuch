@@ -26,17 +26,17 @@ Bitte beachten Sie dabei folgendes:
 4. Sollten Sie ein Problem, einen Defekt oder ähnliches feststellen, geben Sie bitte umgehend dem Netzwerkberater Bescheid. Gerne auch als Email an: huber@copernicus-gymnasium.de
 
 
-Laptops 6-10 - Windows 10 oder Ubuntu
+Laptops 6-10 -  Ubuntu
 --------------------------------------
 
-Seit Kurzem stehen Ihnen weitere 5 Laptops zur Verfügung. Hier können Sie auswählen, ob sie Windows10 verwenden wollen oder das bekannte Ubuntu1404 aus den Computerräumen.
+Seit Kurzem stehen Ihnen weitere 5 Laptops zur Verfügung. Diese sind mit demselben Betriebsystem augestattet wie die Rechner in den Computerräumen. Sie finden dementsprechend auch alle Software, die sie auch im Computerraum auf den Rechnern vorfinden.
 
 1. Beim Start wird Ihnen der Linbo-Bildschirm gezeigt. Hier können sie auswählen, welches Betriebssytem sie verwenden wollen.
 
-2. Für beide Betriebssystem gilt, was bereits oben für die Windows7-Laptops gilt (siehe oben Punkt 1 und 2)
+2. Melden Sie sich unter Ubuntu mit "lehrer" an (ohne Anführungszeichen): Das Passwort lautet ebenfalls "lehrer" (ohne Anführungszeichen).
 
-3. Melden Sie sich unter Windows10 mit "lehrer" an (ohne Anführungszeichen): Passwort brauchen sie keines.
+3. Es dauert nun einen kleinen Moment, bis der Rechner uns insbesondere das WLAN einsatzbereit sind. Haben Sie ein wenig Geduld.
 
-4. Melden Sie sich unter Ubuntu mit "lehrer" an (ohne Anführungszeichen): Das Passwort lautet ebenfalls "lehrer" (ohne Anführungszeichen).
+
 
 
