@@ -51,7 +51,7 @@ Wenn Sie sich angemeldet haben, gelangen Sie zu einer Übersichts-Seite, über d
 .. image:: /bilder/webuntis/2a.png
 
 
-.. _stundenplan:
+
 
 1. Stundenplan
 
@@ -95,8 +95,9 @@ Wenn Sie sich angemeldet haben, gelangen Sie zu einer Übersichts-Seite, über d
 
 
 
-1. Stundenplan
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+1. Stundenplan :ref: stundenplan <Stundenplan>
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 .. image:: /bilder/webuntis/3.png
 
 Klicken in diesem Menu auf "Lehrer", wird Ihnen ihr eigener Stundenplan für die laufende Woche angezeigt. Vertretungen, Aufsichten etc. sind hier schon eingetragen.
