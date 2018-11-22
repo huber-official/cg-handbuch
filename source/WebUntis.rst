@@ -53,7 +53,7 @@ Wenn Sie sich angemeldet haben, gelangen Sie zu einer Übersichts-Seite, über d
 
 
 
-1. Stundenplan
+1. :ref: stundenplan <Stundenplan>
 
 
 
@@ -95,7 +95,7 @@ Wenn Sie sich angemeldet haben, gelangen Sie zu einer Übersichts-Seite, über d
 
 
 
-1. Stundenplan :ref: stundenplan <Stundenplan>
+1. Stundenplan 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: /bilder/webuntis/3.png
