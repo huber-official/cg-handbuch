@@ -45,42 +45,57 @@ Arbeiten mit WebUntis
 -----------------------
 
 Wenn Sie sich angemeldet haben, gelangen Sie zu einer Übersichts-Seite, über die alle Funktionen von WebUntis erreichbar sind. Wenn Sie auf eine der Schaltflächen
-1. bis 3. klicken, öffnet sich ein Drop-down Menu, der Ihnen verschiedenen Optionen anbietet.
+1 bis 3 klicken, öffnet sich ein Drop-down Menu, der Ihnen verschiedenen Optionen anbietet.
 
 
 .. image:: /bilder/webuntis/2a.png
+
 
 .. _stundenplan:
 
 1. Stundenplan
 
+
+
 .. _unterricht:
 
 2. Unterricht
+
+
 
 .. _buchen:
 
 3. Buchen
 
+
+
 .. _nachrichten:
 
 4. Meine Nachrichten
+
+
 
 .. _profil:
 
 5. Benutzername (Profil)
 
+
+
 .. _abmelden:
 
 6. Abmelden
+
+
 
 .. _tagesnachrichten:
 
 7. Tagesnachrichten
 
-:ref:'stundenplan'
 
-1. Stundenplan :ref:`stundenplan`
+
+
+
+1. Stundenplan
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. image:: /bilder/webuntis/3.png
 
@@ -92,8 +107,8 @@ Sind in einem Feld ein kleines Ausrufezeichen oder drei kleine Punkte am rechten
 Mit einem Klicke darauf, werden Ihnen diese angezeigt. Ein Klicken auf der große X oben rechts schließt die Übersicht mit den zusätzlichen Informationen und bringt sie
 zurück zu Ihrem Stundenplan.
 
-.. important:: Unten rechts ist Uhrzeit der Erstellung des Stundenplans zu sehen.
+.. important:: Unten rechts ist Uhrzeit der Erstellung des Stundenplans zu sehen (3.).
 
 
-2. Unterricht :ref:`unterricht`
+2. Unterricht
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
