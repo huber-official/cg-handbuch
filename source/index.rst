@@ -13,6 +13,7 @@ Willkommen zum Leitfaden zur Benutzung des Netzwerks!
    An-und Abmelden
    Hinweis zum Speichern von Dateien
    Die Schulkonsole
+   WebUntis
    Verwendung der Ubuntu-Rechner
    Verwendung der Schullaptops
    Benutzung der Beamer im Klassenzimmer
