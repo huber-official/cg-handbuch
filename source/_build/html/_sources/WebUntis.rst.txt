@@ -78,7 +78,9 @@ Wenn Sie sich angemeldet haben, gelangen Sie zu einer Übersichts-Seite, über d
 
 7. Tagesnachrichten
 
-1. Stundenplan :ref:'stundenplan'
+:ref:'stundenplan'
+
+1. Stundenplan
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. image:: /bilder/webuntis/3.png
 
@@ -92,5 +94,7 @@ zurück zu Ihrem Stundenplan.
 
 .. important:: Unten rechts ist Uhrzeit der Erstellung des Stundenplans zu sehen.
 
-2. Unterricht :ref:'unterricht'
+:ref:'unterricht'
+
+2. Unterricht
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
