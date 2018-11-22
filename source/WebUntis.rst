@@ -53,7 +53,7 @@ Wenn Sie sich angemeldet haben, gelangen Sie zu einer Übersichts-Seite, über d
 
 
 
-1. :ref: stundenplan <Stundenplan>
+1. :ref: `stundenplan` <Stundenplan>
 
 
 
