@@ -7,7 +7,7 @@ mit WebUntis Räume buchen oder auch die TV-Wagen, Ipads etc reservieren. Das al
 Raumbuchungssystem ist damit obsolet.
 
 
-.. _zugriff-webuntis-sk:
+.. _zugriff-webuntis:
 
 Zugriff auf WebUntis
 ----------------------
@@ -50,16 +50,36 @@ Wenn Sie sich angemeldet haben, gelangen Sie zu einer Übersichts-Seite, über d
 
 .. image:: /bilder/webuntis/2a.png
 
-1. Stundenplan
-2. Unterricht
-3. Buchen
-4. Meine Nachrichten
-5. Benutzername (Profil)
-6. Abmelden
-7. Nachrichten
+.. _stundenplan:
 
 1. Stundenplan
-^^^^^^^^^^^^^^^
+
+.. _unterricht:
+
+2. Unterricht
+
+.. _buchen:
+
+3. Buchen
+
+.. _nachrichten:
+
+4. Meine Nachrichten
+
+.. _profil:
+
+5. Benutzername (Profil)
+
+.. _abmelden:
+
+6. Abmelden
+
+.. _tagesnachrichten:
+
+7. Tagesnachrichten
+
+1. Stundenplan :ref:'stundenplan'
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. image:: /bilder/webuntis/3.png
 
 Klicken in diesem Menu auf "Lehrer", wird Ihnen ihr eigener Stundenplan für die laufende Woche angezeigt. Vertretungen, Aufsichten etc. sind hier schon eingetragen.
@@ -70,4 +90,7 @@ Sind in einem Feld ein kleines Ausrufezeichen oder drei kleine Punkte am rechten
 Mit einem Klicke darauf, werden Ihnen diese angezeigt. Ein Klicken auf der große X oben rechts schließt die Übersicht mit den zusätzlichen Informationen und bringt sie
 zurück zu Ihrem Stundenplan.
 
-.. important:: Unten rechts ist Uhrzeit der Erstellung des Stundenplans zu sehen. 
+.. important:: Unten rechts ist Uhrzeit der Erstellung des Stundenplans zu sehen.
+
+2. Unterricht :ref:'unterricht'
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
