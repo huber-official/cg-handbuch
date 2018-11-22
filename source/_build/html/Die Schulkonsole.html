@@ -1,0 +1,534 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="de" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="de" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>Die Schulkonsole &mdash; cg-handbuch 1.1 Dokumentation</title>
+  
+
+  
+  
+  
+  
+
+  
+
+  
+  
+    
+
+  
+
+  <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
+  <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    <link rel="index" title="Stichwortverzeichnis" href="genindex.html" />
+    <link rel="search" title="Suche" href="search.html" />
+    <link rel="next" title="WebUntis" href="WebUntis.html" />
+    <link rel="prev" title="Hinweis zum Speichern von Dateien" href="Hinweis zum Speichern von Dateien.html" /> 
+
+  
+  <script src="_static/js/modernizr.min.js"></script>
+
+</head>
+
+<body class="wy-body-for-nav">
+
+   
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search">
+          
+
+          
+            <a href="index.html" class="icon icon-home"> cg-handbuch
+          
+
+          
+          </a>
+
+          
+            
+            
+              <div class="version">
+                1.1
+              </div>
+            
+          
+
+          
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+
+          
+        </div>
+
+        <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+          
+            
+            
+              
+            
+            
+              <ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="Vorwort.html">Vorwort</a></li>
+<li class="toctree-l1"><a class="reference internal" href="An-und Abmelden.html">An- und Abmelden</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Hinweis zum Speichern von Dateien.html">Hinweis zum Speichern von Dateien</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Die Schulkonsole</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#zugriff-auf-die-schulkonsole">Zugriff auf die Schulkonsole:</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#zugriff-auf-die-schulkonsole-von-den-winxp-rechnern-in-r218">Zugriff auf die Schulkonsole von den WinXP-Rechnern in R218</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#zugriff-auf-die-schulkonsole-von-den-ubuntu-rechnern">Zugriff auf die Schulkonsole von den Ubuntu-Rechnern</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#alternativer-zugriff-auf-die-schulkonsole">Alternativer Zugriff auf die Schulkonsole</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#anmeldeseite-der-schulkonsole">Anmeldeseite der Schulkonsole</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#von-wo-aus-man-keinen-zugriff-auf-die-schulkonsole-hat">Von wo aus man keinen Zugriff auf die Schulkonsole hat</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#arbeiten-mit-der-schulkonsole">Arbeiten mit der Schulkonsole</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#die-startseite">Die Startseite</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="#das-eigene-passwort-andern">Das eigene Passwort ändern</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#nach-moglichkeit-ein-sicheres-passwort-vergeben">Nach Möglichkeit ein sicheres Passwort vergeben</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="#die-seite-aktueller-raum">Die Seite „aktueller Raum“</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="#einstellung-fur-den-unterricht-in-den-computerraumen-vornehmen">Einstellung für den Unterricht in den Computerräumen vornehmen</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="#die-seite-klassen">Die Seite „Klassen“</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="#ubersicht-uber-den-speicherplatz-der-schuler">Übersicht über den Speicherplatz der Schüler</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#vergessene-verlorene-schulerpassworter-anzeigen-oder-neue-schulerpassworter-vergeben">Vergessene/ verlorene Schülerpasswörter anzeigen oder neue Schülerpasswörter vergeben</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#dateien-austeilen-einsammeln">Dateien austeilen/ einsammeln</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#einsammeln">Einsammeln</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#bereitstellen">Bereitstellen</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#tauschen">Tauschen</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#klassenarbeitsmodus">Klassenarbeitsmodus</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#kurse-projekte-anlegen">Kurse/ Projekte anlegen</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="WebUntis.html">WebUntis</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Verwendung der Ubuntu-Rechner.html">Verwendung der Ubuntu-Rechner</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Verwendung der Schullaptops.html">Verwendung der Schullaptops</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Benutzung der Beamer im Klassenzimmer.html">Benutzung der Beamer im Klassenzimmer</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Zugriff auf die Schuldateien von zuhause Horde.html">Zugriff auf die Schuldateien von zuhause Horde</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Dienst-Emailadresse.html">Dienst-Emailadresse</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Computer überwachen mit iTalc oder Epoptes.html">Computer überwachen mit iTalc oder Epoptes</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Benutzung des Wlan.html">Benutzung des Wlan</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Hinweise zum Drucken.html">Hinweise zum Drucken</a></li>
+<li class="toctree-l1"><a class="reference internal" href="CopBox.html">Zugriff auf die Cloud</a></li>
+<li class="toctree-l1"><a class="reference internal" href="Feedback und Fehlermeldungen - Flyspray.html">Feedback und Fehlermeldungen - Flyspray</a></li>
+<li class="toctree-l1"><a class="reference internal" href="LICENSE.html">LICENSE</a></li>
+</ul>
+
+            
+          
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" aria-label="top navigation">
+        
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="index.html">cg-handbuch</a>
+        
+      </nav>
+
+
+      <div class="wy-nav-content">
+        
+        <div class="rst-content">
+        
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div role="navigation" aria-label="breadcrumbs navigation">
+
+  <ul class="wy-breadcrumbs">
+    
+      <li><a href="index.html">Docs</a> &raquo;</li>
+        
+      <li>Die Schulkonsole</li>
+    
+    
+      <li class="wy-breadcrumbs-aside">
+        
+            
+            <a href="_sources/Die Schulkonsole.rst.txt" rel="nofollow"> View page source</a>
+          
+        
+      </li>
+    
+  </ul>
+
+  
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+            
+  <div class="section" id="die-schulkonsole">
+<h1>Die Schulkonsole<a class="headerlink" href="#die-schulkonsole" title="Link zu dieser Überschrift">¶</a></h1>
+<p>Die Schulkonsole ist dazu gedacht, dem Lehrer die Arbeit mit und in den Computerräumen einer Schule zu erleichtern. Zu diesem Zweck bietet Ihnen die Schulkonsole einfache, praktische Hilfsmittel an.
+Die Schulkonsole ermöglicht Ihnen, verschiedene administrative Aufgaben durchzuführen.
+Die wichtigsten sind:</p>
+<ul class="simple">
+<li>Eigenes Passwort ändern</li>
+<li>Passwörter der Schüler ändern</li>
+<li>Internet an/ausschalten</li>
+<li>Dateien austeilen/einsammeln</li>
+<li>Festplattenplatz überprüfen <a class="footnote-reference" href="#f1" id="id1">[1]</a></li>
+</ul>
+<div class="section" id="zugriff-auf-die-schulkonsole">
+<span id="anmelden-sk"></span><h2>Zugriff auf die Schulkonsole:<a class="headerlink" href="#zugriff-auf-die-schulkonsole" title="Link zu dieser Überschrift">¶</a></h2>
+<div class="section" id="zugriff-auf-die-schulkonsole-von-den-winxp-rechnern-in-r218">
+<h3>Zugriff auf die Schulkonsole von den WinXP-Rechnern in R218<a class="headerlink" href="#zugriff-auf-die-schulkonsole-von-den-winxp-rechnern-in-r218" title="Link zu dieser Überschrift">¶</a></h3>
+<p>Auf dem Desktop der Windows-XP Rechner in R218 liegt ein Icon mit dem Namen „Schulkonsole“. Ein Doppelklick darauf öffnet Firefox, der Ihnen die Seite anzeigt, auf der Sie sich mit ihren Zugangsdaten an der Schulkonsole anmelden können.</p>
+<img alt="_images/zugriffSK-XP.jpg" src="_images/zugriffSK-XP.jpg" />
+</div>
+<div class="section" id="zugriff-auf-die-schulkonsole-von-den-ubuntu-rechnern">
+<h3>Zugriff auf die Schulkonsole von den Ubuntu-Rechnern<a class="headerlink" href="#zugriff-auf-die-schulkonsole-von-den-ubuntu-rechnern" title="Link zu dieser Überschrift">¶</a></h3>
+<p>Wenn Sie Ubuntu verwenden (Lehrerzimmer, R219, R218, R210), starten Sie Firefox mit einem einfachen Klick auf das Firefox-Icon auf der linken Seite des Desktops.
+Sie finden nun direkt unterhalb der Adresszeile im Firefox einen Link mit dem Namen „Schulkonsole“.
+Ein einfacher Klick auf den Link führt sie zur Anmeldeseite der Schulkonsole, wo Sie sich mit ihren Zugangsdaten anmelden können.</p>
+<img alt="_images/zugriffSK-ubuntu.jpg" src="_images/zugriffSK-ubuntu.jpg" />
+</div>
+<div class="section" id="alternativer-zugriff-auf-die-schulkonsole">
+<h3>Alternativer Zugriff auf die Schulkonsole<a class="headerlink" href="#alternativer-zugriff-auf-die-schulkonsole" title="Link zu dieser Überschrift">¶</a></h3>
+<p>Sollte es Ihnen aus irgendeinem Grund nicht gelingen, sich mit einer der beiden Varianten an der Schulkonsole anzumelden, dann können Sie in Firefox (egal ob XP oder Ubuntu) die Adresse der Schulkonsole auch direkt in die Adresszeile des Browsers eingeben.
+Die Adresse lautet: <a class="reference external" href="https://server:242">https://server:242</a>
+Auch hier werden Sie zur Anmeldeseite geleitet, wo sie sich mit ihren Zugangsdaten an der Schulkonsole anmelden können.</p>
+<img alt="_images/zugriffSK-browser.jpg" src="_images/zugriffSK-browser.jpg" />
+</div>
+<div class="section" id="anmeldeseite-der-schulkonsole">
+<h3>Anmeldeseite der Schulkonsole<a class="headerlink" href="#anmeldeseite-der-schulkonsole" title="Link zu dieser Überschrift">¶</a></h3>
+<p>Egal welche der oben beschriebenen Varianten Sie gewählt haben: zuerst kommen die Ihnen bekannten Sicherheitshinweise und daraufhin öffnet sich im Browser die Startseite der   Schulkonsole. Diese Warnhinweise deuten nicht auf ein Sicherheitsrisiko hin (bei Ihnen
+zuhause allerdings schon), da der Browser selbstsignierte Zertifikate nicht ohne Weiteres akzeptiert.</p>
+<img alt="_images/4-schulkonsole.jpg" src="_images/4-schulkonsole.jpg" />
+</div>
+<div class="section" id="von-wo-aus-man-keinen-zugriff-auf-die-schulkonsole-hat">
+<h3>Von wo aus man keinen Zugriff auf die Schulkonsole hat<a class="headerlink" href="#von-wo-aus-man-keinen-zugriff-auf-die-schulkonsole-hat" title="Link zu dieser Überschrift">¶</a></h3>
+<p>Aus Sicherheitsgründen ist der Zugriff auf die Schulkonsole im WLAN gesperrt. Ein Zugriff auf die Schulkonsole von ihrem privaten Rechner, der sich im WLAN-Netz der Schule befindet, ist demnach nicht möglich. Ebenso ist der Zugriff auf die Schulkonsole von ihrem Rechner zuhause nicht möglich.</p>
+</div>
+</div>
+<div class="section" id="arbeiten-mit-der-schulkonsole">
+<h2>Arbeiten mit der Schulkonsole<a class="headerlink" href="#arbeiten-mit-der-schulkonsole" title="Link zu dieser Überschrift">¶</a></h2>
+<div class="section" id="die-startseite">
+<h3>Die Startseite<a class="headerlink" href="#die-startseite" title="Link zu dieser Überschrift">¶</a></h3>
+<p>Hat man sich erfolgreich an der Schulkonsole angemeldet, wird man auf die Startseite weiter geleitet. Hier bekommen sie einen Überblick über den von Ihnen belegten Festplattenplatz (Festplattenquota /home). Im oberen Bereich sehen sie verschiedene Schaltflächen (Startseite, aktueller Raum, Klassen, Projekte, Abmelden). Außerdem können Sie hier ihr Passwort  ändern.</p>
+<img alt="_images/5-schulkonsole.jpg" src="_images/5-schulkonsole.jpg" />
+<div class="section" id="das-eigene-passwort-andern">
+<h4>Das eigene Passwort ändern<a class="headerlink" href="#das-eigene-passwort-andern" title="Link zu dieser Überschrift">¶</a></h4>
+<p>Geben Sie einfach ihr altes Passwort in das Feld nach dem Eintrag „Altes Passwort“ ein.
+Geben Sie dann ihre neues Passwort in das Feld nach dem Eintrag „Neues Passwort“ ein.
+Anschließend geben Sie ihr neues Passwort in das Feld nach dem Eintrag „nochmal“ erneut ein.
+Klicken Sie jetzt auf die Schaltfläche „Passwort ändern“
+Dieses geänderte Passwort ersetzt nun das bisherige überall dort, wo Sie früher das alte Passwort verwendet haben:</p>
+<ul class="simple">
+<li>Anmeldung an den Rechnern in folgenden Räumen:</li>
+</ul>
+<blockquote>
+<div><ul class="simple">
+<li>Lehrerzimmer</li>
+<li>Computerraum 219</li>
+<li>Computerraum 218</li>
+<li>Sky-Lounge ( R210)</li>
+</ul>
+</div></blockquote>
+<ul class="simple">
+<li>Anmeldung am Raumbuchungssystem</li>
+<li>Anmeldung am Schulportfolio</li>
+<li>Anmeldung Schulkonsole</li>
+<li>Anmeldung Vertretungsplan</li>
+<li>WLAN</li>
+<li>CopCloud</li>
+</ul>
+</div>
+<div class="section" id="nach-moglichkeit-ein-sicheres-passwort-vergeben">
+<h4>Nach Möglichkeit ein sicheres Passwort vergeben<a class="headerlink" href="#nach-moglichkeit-ein-sicheres-passwort-vergeben" title="Link zu dieser Überschrift">¶</a></h4>
+<div class="admonition important">
+<p class="first admonition-title">Wichtig</p>
+<p class="last">Wenn Sie ihr Passwort ändern, was man aus Sicherheitsgründen alle paar Monaten spätestens tun sollte, achten Sie bitte darauf, dass Sie ein möglichst sicheres Passwort anlegen. Ein sicheres Passwort zeichnet sich dadurch aus, dass es Groß- und Kleinbuchstaben, Zahlen und Sonderzeichen ( zum Beispiel  ! , $ % &amp; ?) verwendet.</p>
+</div>
+</div>
+</div>
+<div class="section" id="die-seite-aktueller-raum">
+<h3>Die Seite „aktueller Raum“<a class="headerlink" href="#die-seite-aktueller-raum" title="Link zu dieser Überschrift">¶</a></h3>
+<p>Wenn Sie für Ihren Unterricht in einem der beiden Computerräume bestimmte Einstellungen vornehmen möchten (Internet sperren, Drucker sperren, Webfilter ausschalten), klicken Sie auf der Startseite auf die Schaltfläche „aktueller Raum“.</p>
+<img alt="_images/6-schulkonsole.jpg" src="_images/6-schulkonsole.jpg" />
+<div class="section" id="einstellung-fur-den-unterricht-in-den-computerraumen-vornehmen">
+<h4>Einstellung für den Unterricht in den Computerräumen vornehmen<a class="headerlink" href="#einstellung-fur-den-unterricht-in-den-computerraumen-vornehmen" title="Link zu dieser Überschrift">¶</a></h4>
+<p>Sie gelangen nun auf die Seite „aktueller Raum“, wo sie die oben genannten Einstellungen vornehmen können. Bevor  Sie eine dieser Funktionen verwenden können, müssen Sie in den entsprechenden Raum wechseln und den Unterricht beginnen. <a class="footnote-reference" href="#f2" id="id2">[2]</a> Ganz wichtig ist, dass Sie den Unterricht auch wieder beenden. Am besten geben Sie gleich eine Uhrzeit ein, zu der der Unterricht beendet werden soll. <a class="footnote-reference" href="#f3" id="id3">[3]</a> Selbstverständlich können Sie den Unterricht auch beenden, indem Sie auf die entsprechende Schaltfläche klicken. Erst wenn Sie den Unterricht begonnen haben können Sie die ausgegrauten Kästchen manipulieren. <a class="footnote-reference" href="#f4" id="id4">[4]</a></p>
+<img alt="_images/7-schulkonsole.jpg" src="_images/7-schulkonsole.jpg" />
+<p>Haben Sie den Unterricht begonnen, stehen ihnen weitere Funktionen zur Verfügung. So können Sie nun zum Beispiel den Internetzugang für alle PCs in der Liste oder nur für      einzelne sperren, die Drucker sperren oder den Webfilter ab- und wieder anschalten. Bitte beachten Sie, dass die Änderungen erst wirksam werden, nachdem Sie auf die Schaltfläche „Änderung übernehmen“ geklickt haben:</p>
+<img alt="_images/8-schulkonsole.jpg" src="_images/8-schulkonsole.jpg" />
+</div>
+</div>
+<div class="section" id="die-seite-klassen">
+<h3>Die Seite „Klassen“<a class="headerlink" href="#die-seite-klassen" title="Link zu dieser Überschrift">¶</a></h3>
+<p>Klicken Sie auf der Startseite auf die Schaltfläche „Klassen“, gelangen Sie zu der      entsprechenden Seite, auf der Sie Passwörter der Schüler neu vergeben oder zurücksetzen können.</p>
+<img alt="_images/9-schulkonsole.jpg" src="_images/9-schulkonsole.jpg" />
+<p>Dazu wählen Sie rechts oben in dem Drop-down-Menu die gewünschte Klasse aus und klicken anschließend auf „Wechseln“.</p>
+<img alt="_images/10-schulkonsole.jpg" src="_images/10-schulkonsole.jpg" />
+<p>Klicken Sie nun auf die gewünschte Klasse!</p>
+<img alt="_images/11-schulkonsole.jpg" src="_images/11-schulkonsole.jpg" />
+<div class="section" id="ubersicht-uber-den-speicherplatz-der-schuler">
+<h4>Übersicht über den Speicherplatz der Schüler<a class="headerlink" href="#ubersicht-uber-den-speicherplatz-der-schuler" title="Link zu dieser Überschrift">¶</a></h4>
+<p>Sie sehen nun die Klassenliste der ausgewählten Klasse. Gleichzeitig findet sich neben den Namen der Schüler eine Anzeige über den von den Schülern belegten Festplattenplatz auf dem Server. Ein leerer Balken bedeutet ein weitgehend leeres Homeverzeichnis des Schülers auf dem Server, wo der Schüler seine Daten speichern kann. Ein roter Balken bedeutet entsprechend, dass das Verzeichnis des Schülers voll ist. Der Schüler sollte dann Daten aus seinem Verzeichnis löschen oder per USB-Stick sichern, wenn er weiterhin Daten in der Schule speichern möchte.</p>
+<img alt="_images/12-schulkonsole.jpg" src="_images/12-schulkonsole.jpg" />
+</div>
+<div class="section" id="vergessene-verlorene-schulerpassworter-anzeigen-oder-neue-schulerpassworter-vergeben">
+<h4>Vergessene/ verlorene Schülerpasswörter anzeigen oder neue Schülerpasswörter vergeben<a class="headerlink" href="#vergessene-verlorene-schulerpassworter-anzeigen-oder-neue-schulerpassworter-vergeben" title="Link zu dieser Überschrift">¶</a></h4>
+<p>Wenn mal wieder ein Schüler sein Passwort vergessen/verlegt oder einfach nur nicht richtig eingegeben hat, können Sie ihm leicht aus der Patsche helfen. Dazu klicken Sie auf die  Schaltfläche „Passwörter“ am linken Rand der Seite „Klassen“.</p>
+<img alt="_images/13-schulkonsole.jpg" src="_images/13-schulkonsole.jpg" />
+<p>Sie sehen nun erneut eine Klassenliste, die aber nun neben dem Namen des Schülers auch  seinen Login-Namen anführt.</p>
+<img alt="_images/14-schulkonsole.jpg" src="_images/14-schulkonsole.jpg" />
+<p>Klicken Sie auf die Schaltfläche „Erstpasswort anzeigen“ neben dem Namen eines Schüler, so erscheint das Passwort, welches für den Schüler bei der allerersten Anmeldung vom System automatisch vergeben wurde. Da die Schüler ihr Passwort nicht oft oder auch gar nicht ändern, hat man auf diese Weise sehr oft das vergessene Passwort wieder zur Hand. Hat der Schüler sein Passwort geändert, aber nun vergessen, haben sie mehrere       Möglichkeiten:</p>
+<ul class="simple">
+<li>Markieren Sie in der Klassenliste einen Schüler, indem Sie in das Kästchen links neben der Schaltfläche „Erstpasswort anzeigen“ klicken.</li>
+<li>Klicken Sie im unteren Bereich der Seite auf die Schaltfläche „Zurücksetzen auf Erstpasswort“, um das Erstpasswort wieder zu aktivieren.</li>
+<li>Klicken Sie auf „Zufallspasswort setzen“, um dem Schüler ein neues zufällig generiertes Passwort zu erzeugen.</li>
+<li>Oder Sie geben ein neues Passwort in das Eingabefeld neben der Schaltfläche „Passwort setzen“ ein und klicken anschließend auf diese.</li>
+</ul>
+</div>
+<div class="section" id="dateien-austeilen-einsammeln">
+<span id="einsammeln-austeilen"></span><h4>Dateien austeilen/ einsammeln<a class="headerlink" href="#dateien-austeilen-einsammeln" title="Link zu dieser Überschrift">¶</a></h4>
+<p>Selbstverständlich haben Sie die Möglichkeit, den Schüler bei der Arbeit in den  Computerräumen Dateien zu Verfügung zu stellen. Das funktioniert mit einigen kleinen Unterschieden genauso wie bisher auch. Der größte Unterschied ist, dass sich die Ordner „__austeilen, __auszuteilen, __einsammeln“ etc. in Ihrem Homeverzeichnis befinden (Home_auf_Server).
+Wenn sie einer Klasse ein bestimmte Datei austeilen möchten, gehen Sie folgendermaßen vor:</p>
+<ul class="simple">
+<li>Kopieren Sie die gewünschte Datei in den Ordner: „Home_auf_Server“ //  „__auszuteilen“ //„__auszuteilen-NAME DER KLASSE“</li>
+</ul>
+<img alt="_images/15-schulkonsole.jpg" src="_images/15-schulkonsole.jpg" />
+<ul class="simple">
+<li>Melden sie sich der Schulkonsole an (siehe <a class="reference internal" href="#anmelden-sk"><span class="std std-ref">Zugriff auf die Schulkonsole:</span></a> )</li>
+<li>Wechseln Sie in den Bereich „Klassen“</li>
+<li>Tragen Sie sich eine Klassen ein oder wechseln sie zu der Klasse, indem auf den Button der Klasse klicken, wenn Sie bereits in der entsprechenden Klasse eingetragen sind.</li>
+<li>Klicken Sie nun am linken Rand auf die blaue Schaltfläche „Austeilen“</li>
+</ul>
+<img alt="_images/16-schulkonsole.jpg" src="_images/16-schulkonsole.jpg" />
+<ul class="simple">
+<li>Wenn Sie auf die Schaltfläche „Ansicht aktualisieren“ klicken, werden Ihnen alle Dateien angezeigt, die sich in dem Ordner „__auszuteilen-NAME DER KLASSE“ in „__auszuteilen“ in ihrem Homeverzeichnis befinden.</li>
+<li>Scrollen Sie nach unten und klicken Sie auf „Austeilen“</li>
+<li>Die auszuteilende Datei wird nun in das in das Heimatverzeichnis der Schüler/innen in den Ordner „__austeilen -&gt; austeilen-Klasse“ kopiert.</li>
+</ul>
+</div>
+<div class="section" id="einsammeln">
+<span id="id5"></span><h4>Einsammeln<a class="headerlink" href="#einsammeln" title="Link zu dieser Überschrift">¶</a></h4>
+<p>Möchten Sie Dateien der Schüler wieder einsammeln gehen Sie folgendermaßen vor:
+Einzusammelnde Dateien müssen von den Schüler/innen in ihrem Heimatverzeichnis im Ordner „__einsammeln“ abgelegt werden.
+Wählen Sie aus, ob die einzusammelnden Dateien erhalten bleiben oder gelöscht werden sollen.
+Wählen Sie die Schüler/innen, von denen Sie einsammeln wollen, oder die ganze Klasse aus. In der Spalte „Dateien“ können Sie sehen, welche Dateien zum Einsammeln zur Verfügung stehen.
+Sie finden die eingesammelten Arbeiten in Ihrem Heimatverzeichnis unter „_eingesammelt -&gt; eingesammelt-Klasse“.</p>
+<img alt="_images/17-schulkonsole.jpg" src="_images/17-schulkonsole.jpg" />
+</div>
+<div class="section" id="bereitstellen">
+<span id="id6"></span><h4>Bereitstellen<a class="headerlink" href="#bereitstellen" title="Link zu dieser Überschrift">¶</a></h4>
+<p>Möchten Sie den Schülern bestimmte Dateien als Vorlagen zu Verfügung stellen, so gehen Sie folgendermaßen vor:</p>
+<ul class="simple">
+<li>Ihre Vorlagen müssen in Ihrem Heimatverzeichnis unter „_bereitstellen -&gt; bereitstellen-Klasse“ abgelegt sein.</li>
+</ul>
+<img alt="_images/18-schulkonsole.jpg" src="_images/18-schulkonsole.jpg" />
+<ul class="simple">
+<li>Nach dem Betätigen der Schaltfläche „Bereitstellen“ finden die Schüler/innen Ihre Vorlagen in ihrem Heimatverzeichnis unter „__vorlagen -&gt; vorlagen-Klasse“.</li>
+</ul>
+<img alt="_images/19-schulkonsole.jpg" src="_images/19-schulkonsole.jpg" />
+<p>Einsammeln
+Auch das Einsammeln von Dateien ist möglich:</p>
+<ul class="simple">
+<li>Einzusammelnde Dateien müssen im Heimatverzeichnis der Schüler/innen im Ordner „__einsammeln“ abgelegt sein, damit sie in der Ansicht der Seite „Einsammeln“ auf der Schulkonsole aufgelistet werden. Nachträglich von den Schüler/innen dorthin abgelegte Dateien können Sie über „Ansicht aktualisieren“ sichtbar machen.</li>
+<li>Wählen Sie aus, ob die Originaldateien auf Schülerseite gelöscht werden oder erhalten bleiben sollen.</li>
+<li>Sie finden die eingesammelten Dateien in Ihrem Heimatverzeichnis unter „_eingesammelt -&gt; eingesammelt-aktueller_raum“.</li>
+</ul>
+<img alt="_images/20-schulkonsole.jpg" src="_images/20-schulkonsole.jpg" />
+</div>
+<div class="section" id="tauschen">
+<h4>Tauschen<a class="headerlink" href="#tauschen" title="Link zu dieser Überschrift">¶</a></h4>
+<p>Tauschen von Dateien funktioniert nach dem gleichen Muster:</p>
+<ol class="arabic simple">
+<li>Melden sie sich der Schulkonsole an (siehe <a class="reference internal" href="#anmelden-sk"><span class="std std-ref">Zugriff auf die Schulkonsole:</span></a> )</li>
+<li>Wechseln Sie in den Bereich „Klassen“</li>
+</ol>
+<img alt="_images/wlan-1.png" src="_images/wlan-1.png" />
+<ol class="arabic simple" start="3">
+<li>Tragen Sie sich eine Klassen ein oder wechseln sie zu der Klasse, indem auf den Button der Klasse klicken, wenn Sie bereits in der entsprechenden Klasse eingetragen sind.</li>
+</ol>
+<img alt="_images/wlan-2.png" src="_images/wlan-2.png" />
+<ol class="arabic simple" start="3">
+<li>Klicken Sie im Bereich „Klassen“ auf „Unterricht“.</li>
+</ol>
+<img alt="_images/schulkonsole-klassen-4.png" src="_images/schulkonsole-klassen-4.png" />
+<ol class="arabic simple" start="4">
+<li>Wenn Sie sich noch nicht in einen Raum eingetragen haben, werden Sie nun dazu aufgefordert. Wählen Sie einen Raum und klicken Sie „Wechseln“.</li>
+</ol>
+<img alt="_images/schulkonsole-klassen-6.png" src="_images/schulkonsole-klassen-6.png" />
+<ol class="arabic simple" start="5">
+<li>Sie sehen nun den gebuchtem Raum und alle bereits angemeldeten Schüler. Um Dateien zu tauschen, müssen Sie den Unterricht beginnen. Geben Sie vorher eine Uhrzeit an, an dem der Unterricht in diesem Raum wieder enden soll und klicken Sie anschließen auf „beenden lassen“, oder denken Sie daran, am Ende der Stunde den Unterricht in der Schulkonsole von Hand wieder zu beenden.</li>
+</ol>
+<img alt="_images/schulkonsole-klassen-7.png" src="_images/schulkonsole-klassen-7.png" />
+<ol class="arabic simple" start="6">
+<li>Im folgenden werden nun die Tauschverzeichnisse in den Homeverzeichnisse der Schüler eingebunden. Es erscheint außerdem ein Hinweis in Form eines grünen Balkens im Browser, dass man sich unter Windows erneut anmelden muss, um auf die Tauschverzeichnisse zugreifen zu können.</li>
+</ol>
+<img alt="_images/21-schulkonsole.jpg" src="_images/21-schulkonsole.jpg" />
+<ol class="arabic simple" start="7">
+<li>Nach ein paar Augenblicken (Ubuntu) oder dem erneuten Ab- und Anmelden am System (Windows) finden Sie in ihrem Homeverzeichnis die Tauschordner. Einer davon ist nach der Klasse benannt, mit der Sie sich gerade im gebuchten Computerraum befinden. Die Schüler finden in ihren Homeverzeichnissen (Home_auf_Server) den Tauschordner ebenfalls. Bitte denken Sie daran, dass die Tauschordner nicht zum dauerhaften Speichern von Dateien gedacht sind. Nehmen Sie dazu lieber ihr Homeverzeichnis oder nutzen Sie die Funktion austeilen/einsammeln.</li>
+</ol>
+</div>
+<div class="section" id="klassenarbeitsmodus">
+<h4>Klassenarbeitsmodus<a class="headerlink" href="#klassenarbeitsmodus" title="Link zu dieser Überschrift">¶</a></h4>
+<p>Ehrlich gesagt habe ich den Klassenarbeitsmodus selbst noch nie benutzt, und ich habe auch noch von keinem gehört, der ihn bei uns am Copernicus-Gymnasium in den vergangenen 6 Jahren, seit wir dieses System einsetzen, verwendet hätte. Offenbar besteht kein besonderer Bedarf an diesem Feature. Das ist schade, denn eine Klassenarbeit oder einen Test in den Computerräumen zu schreiben und dafür einen gesicherte Umgebung zu schaffen (kein Internetzugang, kein Zugriff für die Schüler auf ihr Homeverzeichnis), ist mit der Schulkonsole kein Problem.
+Wenn Sie es ausprobieren wollen, gehen Sie folgendermaßen vor:
+Gehen Sie auf der Schulkonsole in „aktueller Raum“, wählen Sie dort den Raum aus, in dem Sie die Arbeit zu schreiben beabsichtigen, klicken auf „wechseln“, wenn Sie den Raum ggfs. ändern müssen und klicken dann auf „Unterricht beginnen“:</p>
+<img alt="_images/22-schulkonsole.png" src="_images/22-schulkonsole.png" />
+<p>Jetzt erst ist der Klassenarbeitsmodus freigeschaltet. Sie werden auf eine Seite weitergeleitet, auf der Sie den aktuellen Raum sehen sowie die Mitteilung, dass der Klassenarbeitsmodus nicht aktiv ist. Außerdem wird Ihnen ein Workstationpasswort angezeigt. Dieses benutzen die Schüler, um sich für die Klassenarbeit an den Pcs anzumelden. Als Login dient der Name des PCs, den die Schüler am oberen Bildschirmrand ablesen können. Wenn Sie selbst ein Passwort erstellen möchten, ersetzen Sie das automatisch erzeugte und klicken anschließend auf „Klassenarbeit“ starten.</p>
+<img alt="_images/23-schulkonsole.jpg" src="_images/23-schulkonsole.jpg" />
+<div class="admonition important">
+<p class="first admonition-title">Wichtig</p>
+<p class="last">Beachten Sie hier wie auch in allen anderen Bereich der Schulkonsole die Informationen am rechten Rand des Bildschirms! Viele nützliche Hinweise finden sich dort!!</p>
+</div>
+<p>Auf der nächsten Seite sehen Sie jetzt die Mitteilung, dass der Klassenarbeitsmodus aktiviert ist. Sie können verfolgen, welche Schüler bereits angemeldet sind. Wenn Sie zuvor Dateien in ihrem Homeverzeichnis im Ordner „_bereitstellen“ kopiert haben, werden diese in der Übersicht angezeigt. Sie können aber auch von hier aus noch Dateien in das genannte Verzeichnis hochladen, indem Sie auf „Browse“ klicken, die gewünschte Datei auswählen, und den Vorgang mit einem Klick auf „Submit Query“ abschließen. Die neu hochgeladene Datei wird Ihnen dann in der Liste angezeigt. Sollte das nicht der Fall sein, aktualisieren Sie die Seite, indem Sie F5 drücken.</p>
+<img alt="_images/24-schulkonsole.png" src="_images/24-schulkonsole.png" />
+<p>Die Schüler finden nun in ihrem Homeverzeichnis (Home_auf_Server) im Ordner Vorlagen_auf_Server einen Ordner mit dem Namen der Lehrkraft, die die Arbeit durchführt. Darin befinden sich alle Dateien, die Sie den Schülern für die Arbeit zur Verfügung stellen. Die Schüler könne diese nun nach Herzenslust oder gemäß Ihrer Vorgaben bearbeiten, ohne dabei auf das Internet oder ihr eigenes Homeverzeichnis zugreifen zu können. Schummeln ist also nicht möglich.Die Infobox am rechten Bildrand der Schulkonsole beschreibt das Vorgehen zum Einsammeln der von den Schülern bearbeiteten Dateien:
+„Die Schüler/innen müssen ihre Ergebnisse im Heimatverzeichnis der Arbeitsstation im Ordner „__einsammeln“ ablegen, damit sie hier aufgelistet werden und eingesammelt werden können. Laden Sie die Seite eventuell neu, um den aktuellen Status zu sehen.
+„Kopien einsammeln“ sammelt den aktuellen Stand der Ergebnisse ein.
+„Einsammeln und beenden“ sammelt alle Ergebnisse ein, löscht den Inhalt des Ordners „__einsammeln“ der Arbeitsstation und beendet die Klassenarbeit. <a class="footnote-reference" href="#f5" id="id7">[5]</a></p>
+<img alt="_images/25-schulkonsole.png" src="_images/25-schulkonsole.png" />
+<p>Haben Sie den Klassenarbeitsmodus mit „Einsammeln und beenden“ abgeschlossen, finden Sie die Ergebnisse der Schüler in Ihrem Homeverzeichnis (Home_auf_Server) im Ordner „_eingesammelt“ im Ordner „eingesammelt-klassenarbeit“.</p>
+<img alt="_images/26-schulkonsole.png" src="_images/26-schulkonsole.png" />
+</div>
+<div class="section" id="kurse-projekte-anlegen">
+<span id="kurs-sk"></span><h4>Kurse/ Projekte anlegen<a class="headerlink" href="#kurse-projekte-anlegen" title="Link zu dieser Überschrift">¶</a></h4>
+<p>Die Klassen sind im System bereits angelegt, weshalb das Austeilen von Dateien etc. relativ problemlos möglich ist. Die Kurstufen allerdings sind nicht weiter in Kurse differenziert. Wenn Sie mit ihrem Kurs Dateien austauschen wollen etc., müssen deshalb in der Schulkonsole einen neues Projekt anlegen und diesem dann die einzelnen SchülerInnen dem Projekt von Hand zuweisen, Zeitaufwand ca. 5 Minuten:
+Melden Sie sich mit Ihrem Benutzernamen an der Schulkonsole an ( Siehe <a class="reference internal" href="#anmelden-sk"><span class="std std-ref">Zugriff auf die Schulkonsole:</span></a> ). Klicken Sie auf den Menupunkt „Projekte“. Sie landen auf der Seite „Projekte“.</p>
+<img alt="_images/27-schulkonsole.jpg" src="_images/27-schulkonsole.jpg" />
+<p>Dort können Sie sich in ein bereits bestehendes Projekt eintragen oder ein neues erstellen. Wie üblich auf der Schulkonsole werden Ihnen am rechen Rand nützliche Informationen eingeblendet ( z.B. die Kriterien der Benennung von neuen Projekten).</p>
+<img alt="_images/28-schulkonsole.jpg" src="_images/28-schulkonsole.jpg" />
+<p>Setzen Sie einen Haken bei „offenes Projekt“, wenn Sie möchten, dass sich andere Lehrer selbstständig in dieses Projekt eintragen können. Im anderen Fall setzen Sie den Haken nicht. Wenn Sie ein neues Projekt erstellt haben oder sich in ein anderes eingetragen haben, wählen Sie es rechts oben aus und klicken „Wechseln“.
+Im Bereich „Mitglieder“ hinzufügen können Sie nach einzelnen Schülern, Lehrern, ganzen Klassen oder anderen Projekten suchen, die Sie ihrem Projekt zuordnen möchten
+Im Bereich „Mitglieder im Projekt“ werden alle Mitglieder des Projekts aufgeführt. Wenn Sie die Leitung des Projekts haben oder es erstellt haben, können Sie hier die Mitgliedschaft im Projekt für einzelne Mitglieder auch wieder beenden.</p>
+<img alt="_images/29-schulkonsole.jpg" src="_images/29-schulkonsole.jpg" />
+<p>Wenn Sie den Vorgang abgeschlossen haben, können Sie mit den Mitgliedern des Projekts  Dateien tauschen etc. Das funktioniert wie bei „normalen“ Klassen auch. Siehe dazu die Kapitel <a class="reference internal" href="#einsammeln-austeilen"><span class="std std-ref">Dateien austeilen/ einsammeln</span></a> , <a class="reference internal" href="#einsammeln"><span class="std std-ref">Einsammeln</span></a> und <a class="reference internal" href="#bereitstellen"><span class="std std-ref">Bereitstellen</span></a> . Die entsprechenden Funktionen werden Ihnen im Menupunkt „Projekte“ bei Berührung mit der Maus angezeigt.</p>
+<p class="rubric">Footnotes</p>
+<table class="docutils footnote" frame="void" id="f1" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label"><a class="fn-backref" href="#id1">[1]</a></td><td><a class="reference external" href="https://servus.bg.hd.bw.schule.de/linuxmuster-default/anleitungen/Anleitung_Schulkonsole_PaedML.pdf">https://servus.bg.hd.bw.schule.de/linuxmuster-default/anleitungen/Anleitung_Schulkonsole_PaedML.pdf</a></td></tr>
+</tbody>
+</table>
+<table class="docutils footnote" frame="void" id="f2" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label"><a class="fn-backref" href="#id2">[2]</a></td><td>Ebd.</td></tr>
+</tbody>
+</table>
+<table class="docutils footnote" frame="void" id="f3" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label"><a class="fn-backref" href="#id3">[3]</a></td><td>Ebd.</td></tr>
+</tbody>
+</table>
+<table class="docutils footnote" frame="void" id="f4" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label"><a class="fn-backref" href="#id4">[4]</a></td><td>Ebd.</td></tr>
+</tbody>
+</table>
+<table class="docutils footnote" frame="void" id="f5" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label"><a class="fn-backref" href="#id7">[5]</a></td><td>Danke an linuxmuster.net für die hilfreichen Anmerkungen in der Schulkonsole, deren Beachtung den Umgang mit der Schulkonsole sehr vereinfacht.</td></tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+
+
+           </div>
+           
+          </div>
+          <footer>
+  
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+      
+        <a href="WebUntis.html" class="btn btn-neutral float-right" title="WebUntis" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+      
+      
+        <a href="Hinweis zum Speichern von Dateien.html" class="btn btn-neutral" title="Hinweis zum Speichern von Dateien" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+      
+    </div>
+  
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>
+        &copy; Copyright 2017, Christian Huber
+
+    </p>
+  </div>
+  Built with <a href="http://sphinx-doc.org/">Sphinx</a> using a <a href="https://github.com/rtfd/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>. 
+
+</footer>
+
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+  
+
+
+  
+
+    
+    
+      <script type="text/javascript" id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+        <script type="text/javascript" src="_static/jquery.js"></script>
+        <script type="text/javascript" src="_static/underscore.js"></script>
+        <script type="text/javascript" src="_static/doctools.js"></script>
+        <script type="text/javascript" src="_static/translations.js"></script>
+    
+
+  
+
+  <script type="text/javascript" src="_static/js/theme.js"></script>
+
+  <script type="text/javascript">
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>
