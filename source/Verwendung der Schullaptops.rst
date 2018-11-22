@@ -37,6 +37,8 @@ Seit Kurzem stehen Ihnen weitere 5 Laptops zur Verfügung. Diese sind mit demsel
 
 3. Es dauert nun einen kleinen Moment, bis der Rechner uns insbesondere das WLAN einsatzbereit sind. Haben Sie ein wenig Geduld.
 
+4. Sollten Sie ein Problem, einen Defekt oder ähnliches feststellen, geben Sie bitte umgehend dem Netzwerkberater Bescheid. Gerne auch als Email an: huber@copernicus-gymnasium.de
+
 
 
 
