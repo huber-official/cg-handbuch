@@ -80,7 +80,7 @@ Wenn Sie sich angemeldet haben, gelangen Sie zu einer Übersichts-Seite, über d
 
 :ref:'stundenplan'
 
-1. Stundenplan
+1. Stundenplan :ref:`stundenplan`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 .. image:: /bilder/webuntis/3.png
 
@@ -94,7 +94,6 @@ zurück zu Ihrem Stundenplan.
 
 .. important:: Unten rechts ist Uhrzeit der Erstellung des Stundenplans zu sehen.
 
-:ref:'unterricht'
 
-2. Unterricht
+2. Unterricht :ref:`unterricht`
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
