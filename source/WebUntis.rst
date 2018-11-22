@@ -69,3 +69,5 @@ Klicken in diesem Menu auf "Lehrer", wird Ihnen ihr eigener Stundenplan für die
 Sind in einem Feld ein kleines Ausrufezeichen oder drei kleine Punkte am rechten Rand zu erkennen, heißt das, dass zu dieser Stunde weitere Informationen vorliegen,
 Mit einem Klicke darauf, werden Ihnen diese angezeigt. Ein Klicken auf der große X oben rechts schließt die Übersicht mit den zusätzlichen Informationen und bringt sie
 zurück zu Ihrem Stundenplan.
+
+.. important:: Unten rechts ist Uhrzeit der Erstellung des Stundenplans zu sehen. 
