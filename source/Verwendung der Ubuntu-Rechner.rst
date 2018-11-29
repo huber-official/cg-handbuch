@@ -27,12 +27,12 @@ Der „Appstore“ von Ubuntu bietet eine Fülle von Software für verschiedene 
 
 .. image:: /bilder/kapitel4/4-4.png
 
-Hier können Sie gezielt nach einer bestimmten Software suchen oder einfach etwas stöbern. 
+Hier können Sie gezielt nach einer bestimmten Software suchen oder einfach etwas stöbern.
 
 Wie installiere ich Software?
 -------------------------------
 
-Aus Sicherheitsgründen ist es den Benutzern nicht gestattet, Software zu installieren. Wenn Sie eine bestimmte Software benötigen, fragen Sie Hu (huber@copernicus-gymnasium.de). 
+Aus Sicherheitsgründen ist es den Benutzern nicht gestattet, Software zu installieren. Wenn Sie eine bestimmte Software benötigen, fragen Sie Hu (huber@copernicus-gymnasium.de).
 Windowssoftware lässt sich leider nicht ohne Weiteres auf einem Ubuntusystem installieren. Aber in vielen Fällen finden Sie im Ubuntu Software-Center eine gleichwertige Alternative, die zudem noch den Vorteil hat, dass sich kostenlos ist und keine teuren Lizenzkosten zu entrichten sind.
 
 Ist iTalc auf den Ubuntu-Rechnern installiert?
@@ -62,45 +62,50 @@ Audio/ Video
 - audacious			(Audio-Player)
 - audacity			(Audioschnitt)
 - cinerella			(quasi-professionelle Videoschnittsoftware)
-- DeVeDe			(DVD-Authoring-Software)
-- Easytag			(Taggen von Audiodateien)
-- gnome-mplayer		(Media-Player)
+- DeVeDe			  (DVD-Authoring-Software)
+- Easytag			  (Taggen von Audiodateien)
+- gnome-mplayer	(Media-Player)
 - guvcview			(Webcam...)
 - handbrake			(Video/Audio-Konverter)
-- kazam				(Desktopvideos und Bildschirmfotos)
+- kazam				  (Desktopvideos und Bildschirmfotos)
 - openshot			(Videoschnitt)
-- soundconverter		(Audio-Konverter)
-- sound-juicer			(CD Ripper)
-- totem				(Media-Player)
-- vlc				(Media-Player)
+- soundconverter (Audio-Konverter)
+- sound-juicer	(CD Ripper)
+- totem				  (Media-Player)
+- vlc				    (Media-Player)
 
 Grafik
 ^^^^^^^
 
-- converseen         		(Multiconverter für Bilder)
-- Dia               	 		(Zeichnen von Diagrammen)
-- freemind           		(Mind-Map)
-- gimp				(Grafikprogramm)
+- converseen    (Multiconverter für Bilder)
+- Dia           (Zeichnen von Diagrammen)
+- freemind      (Mind-Map)
+- gimp				  (Grafikprogramm)
 - inkscape			(Vektor-Grafikprogramm)
-- labyrith           			(Mind-Map)
+- labyrith      (Mind-Map)
 - shutter				(Screenshots machen)
 
 Naturwissenschaften/ Informatik
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-- Bluej-Bluej-311			(Informatik-Programmieren)
-- geogebra44         		(Mathematik und Geometrie)
-- greenfoot-230    		(Informatik-Programmieren)
-- jfractionlab       		(Bruchrechentrainer)
-- tilem              			(Texas Instruments Emulator)
-- spatialcommander		(geographisches Informationssystem)
-- stellarium			(Planetarium-Programm)
+- AppInventor       (Informatik-Programmieren)
+- Arduino           (Informatik-Programmieren)
+- Bluej-Bluej-311	  (Informatik-Programmieren)
+- DynaGeo           (Mathematik und Geometrie))
+- filius            (Netzwerksimulator)
+- geogebra44        (Mathematik und Geometrie)
+- greenfoot-230     (Informatik-Programmieren)
+- jfractionlab      (Bruchrechentrainer)
+- scratch           (Informatik-Programmieren)
+- scratch2          (Informatik-Programmieren)
+- spatialcommander  (geographisches Informationssystem)
+- stellarium			  (Planetarium-Programm)
+- tilem             (Texas Instruments Emulator)
 
 Sonstiges
 ^^^^^^^^^^
 
 - Chromium-browser		(Linux-Variante von Chrome)
-- Java8				(Java)
-- p7zipfull			(Packprogramm)
-
-
+- graphstat4          (Statistikprogramm)
+- Java8				        (Java)
+- p7zipfull			      (Packprogramm)
