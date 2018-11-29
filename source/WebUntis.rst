@@ -121,8 +121,11 @@ Sie sollten jetzt eine Auswahl aller Räume sehen, die zu der von Ihnen gewählt
 .. important:: Bitte beachten Sie: Bleibt das Auswahlfenster leer, ist zu der von Ihnen gewünschten Uhrzeit kein Raum verfügbar!
 
 1. Im letzten Schritt geben Sie bitte unter "Klasse" die Klasse an, mit der Sie den Raum benutzen.
+
 2. Geben Sie unter "Bemerkungen" weitere Informationen an.
+
 3. Sie können zum Schluss noch auswählen, ob Sie bei einer Statusänderung ihre Buchung eine Mail erhalten wollen, oder ob sie einen bestimmten Kollegen über die Buchung informieren möchten.
+
 4. Wenn Sie auf "speichern" klicken, ist der Raum gebucht.
 
 .. image:: /bilder/webuntis/5c.png
@@ -141,11 +144,8 @@ Klicken Sie hierzu im Bereich "Buchen" auf der Startseite auf "Meine Buchungen".
 
 .. image:: /bilder/webuntis/5e.png
 
-1. Haben Sie sehr viele Buchungen vorgenommen, suchen Sie hier nach der entsprechenden Buchung. Dazu klicken Sie auf den kleinen Trichter neben der Schaltfläche "Suche ausführen". Es öffnet sich ein Pop-up-Fenster,
-in dem Sie verschiedene Möglichkeiten haben, die gesuchte Buchung zu finden (Raum, Zeit etc.).
-Ansonsten sehen Sie eine Liste ihrer Buchungen.
-2. In der zweiten Spalte haben Sie die Möglichkeit, einen Buchung zu bearbeiten. Ein Klick auf das Stiftsymbol und Sie können die Buchung ändern. Mit einem Klick auf das rote X und Sie können die Buchung löschen.
-Vor der endgültigen Löschung werden Sie zur Bestätigung der Löschung aufgefordert.
+1. Haben Sie sehr viele Buchungen vorgenommen, suchen Sie hier nach der entsprechenden Buchung. Dazu klicken Sie auf den kleinen Trichter neben der Schaltfläche "Suche ausführen". Es öffnet sich ein Pop-up-Fenster, in dem Sie verschiedene Möglichkeiten haben, die gesuchte Buchung zu finden (Raum, Zeit etc.). Ansonsten sehen Sie eine Liste ihrer Buchungen.
+2. In der zweiten Spalte haben Sie die Möglichkeit, einen Buchung zu bearbeiten. Ein Klick auf das Stiftsymbol und Sie können die Buchung ändern. Mit einem Klick auf das rote X und Sie können die Buchung löschen. Vor der endgültigen Löschung werden Sie zur Bestätigung der Löschung aufgefordert.
 
 .. image:: /bilder/webuntis/5f.png
 
@@ -168,20 +168,40 @@ Das weitere Vorgehen ist analog zur Raumbuchung.
 
 Im diesem Bereich können Sie anderen Kollegen eine Nachricht schreiben. Die Dienst-Emailadressen aller Kollegen sind hier hinterlegt.
 
+.. image:: /bilder/webuntis/6.png
+
+Im mittleren Bereich sehen Sie standardmäßig den Posteingang.
+
+1. Im oberen Bereich können Sie die Ansicht des verschiedenen Postfächer (Posteingang, Entwürfe, Gesendet) auswählen und rechts davon die Absender. So können Sie sich bestimmte Nachrichten anzeigen lassen.
+
+2. Wollen Sie eine neue Nachricht verfassen, klicken sie im unteren Bereich auf die Schaltfläche "Neu".
+
+.. image:: /bilder/webuntis/6a.png
+
+In diesem Fenster können Sie einem anderen Kollegen oder einer Gruppe von Kollegen eine Nachricht schicken. Die Verwendung ist analog zu jedem anderen Email-Programm oder Web-Mailer, den Sie kennen.
+
+1. Hier sind ein paar Verteilerlisten voreingestellt, die sie aber nach Belieben weiter einschränken können.
+
+2. Suchen Sie hier nach dem Benutzer, dem Sie eine Mail schreiben möchten.
+
+3. Hier schreiben Sie die Mail und geben den Betreff an.
+
+4. Wenn Sie einen Anhang mitschicken möchten, klicken Sie auf "Dateiablage".
+
+5. klicken Sie auf "Speichern", wenn Sie die Mail in "Entwürfe" speichern möchten oder klicken Sie "Senden", um die Nachricht zu verschicken.
+
+
 
 .. _profil:
 
 5. Benutzername (Profil)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-
-.. _abmelden:
-
-6. Abmelden
-^^^^^^^^^^^^^^
-
-
 .. _tagesnachrichten:
 
-7. Tagesnachrichten
+6. Tagesnachrichten
 ^^^^^^^^^^^^^^^^^^^^
+.. _abmelden:
+
+7. Abmelden
+^^^^^^^^^^^^^^
