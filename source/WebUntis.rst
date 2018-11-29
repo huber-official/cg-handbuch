@@ -1,5 +1,5 @@
 WebUntis
-=========
+============================================
 
 WebUntis ermöglicht Ihnen den Zugriff auf den Vertretungsplan, auf ihren eigenen Stundenplan,
 auf den Stundeplan ihre Klassen, auf die Raumbelegung etc. Außerdem können Sie
@@ -62,8 +62,6 @@ Wenn Sie sich angemeldet haben, gelangen Sie zu einer Übersichts-Seite, über d
 
 
 .. image:: /bilder/webuntis/2a.png
-
-
 
 
 1. Stundenplan
@@ -153,10 +151,22 @@ Vor der endgültigen Löschung werden Sie zur Bestätigung der Löschung aufgefo
 
 Klicken Sie auf "ok", um die Buchung endgültig zu löschen.
 
+Ipdas, TV-Wagen, Visualizer buchen
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Ipdas, TV-Wagen und Visualizer können Sie buchen, wenn Sie im Bereich "Buchen" auf "Ressource buchen" klicken.
+In der Übersicht wählen Sie bitte unter "Ressourceart" die Ressource, die sie buchen wollen (1.).
+Das weitere Vorgehen ist analog zur Raumbuchung.
+
+.. image:: /bilder/webuntis/5g.png
+
+
 .. _nachrichten:
 
 4. Meine Nachrichten
 ^^^^^^^^^^^^^^^^^^^^^
+
+Im diesem Bereich können Sie anderen Kollegen eine Nachricht schreiben. Die Dienst-Emailadressen aller Kollegen sind hier hinterlegt.
 
 
 .. _profil:
