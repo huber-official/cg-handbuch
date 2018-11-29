@@ -95,6 +95,9 @@ Auch in diesem Bereich können Sie sich gezielt bestimmte Informationen anzeigen
 3. Buchen
 ^^^^^^^^^^^
 
+Räume buchen
+~~~~~~~~~~~~~~
+
 Mit der Einführung von WebUntis wird das bislang verwendetet Raumbuchungssystem obsolet. Alles, was sie dort buchen konnten, müssen Sie jetzt hier buchen.
 
 .. important:: Das handschriftliche Ausfüllen einer Benachrichtigung über den von Ihnen gebuchten Raum entfällt, da ihre Buchung hier direkt an die Schulleitung weitergeleitet wird.
@@ -151,8 +154,8 @@ Klicken Sie hierzu im Bereich "Buchen" auf der Startseite auf "Meine Buchungen".
 
 Klicken Sie auf "ok", um die Buchung endgültig zu löschen.
 
-Ipdas, TV-Wagen, Visualizer buchen
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+3. Ipdas, TV-Wagen, Visualizer buchen
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Ipdas, TV-Wagen und Visualizer können Sie buchen, wenn Sie im Bereich "Buchen" auf "Ressource buchen" klicken.
 In der Übersicht wählen Sie bitte unter "Ressourceart" die Ressource, die sie buchen wollen (1.).
