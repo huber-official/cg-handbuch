@@ -66,50 +66,8 @@ Wenn Sie sich angemeldet haben, gelangen Sie zu einer Übersichts-Seite, über d
 
 
 
-1. :ref:`stundenplan`
-
-
-
-.. _unterricht:
-
-2. Unterricht
-
-
-
-.. _buchen:
-
-3. Buchen
-
-
-
-.. _nachrichten:
-
-4. Meine Nachrichten
-
-
-
-.. _profil:
-
-5. Benutzername (Profil)
-
-
-
-.. _abmelden:
-
-6. Abmelden
-
-
-
-.. _tagesnachrichten:
-
-7. Tagesnachrichten
-
-
-
-
-
 1. Stundenplan
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^
 
 .. image:: /bilder/webuntis/3.png
 
@@ -123,6 +81,97 @@ zurück zu Ihrem Stundenplan.
 
 .. important:: Unten rechts ist Uhrzeit der Erstellung des Stundenplans zu sehen (3.).
 
+In der grauen Leiste unterhalb des Menus stehen Ihnen weitere Ansichten zur Verfügung (1.). Auch hier können Sie auswählen, wonach Sie suchen. ( Wie bei 2.)
+
+.. _unterricht:
 
 2. Unterricht
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^
+
+Auch in diesem Bereich können Sie sich gezielt bestimmte Informationen anzeigen lassen. Es werden verschiedene Drop-down Menus angeboten, die Ihnen helfen, das Gesuchte anzuzeigen.
+
+.. image:: /bilder/webuntis/4.png
+
+.. _buchen:
+
+3. Buchen
+^^^^^^^^^^^
+
+Mit der Einführung von WebUntis wird das bislang verwendetet Raumbuchungssystem obsolet. Alles, was sie dort buchen konnten, müssen Sie jetzt hier buchen.
+
+.. important:: Das handschriftliche Ausfüllen einer Benachrichtigung über den von Ihnen gebuchten Raum entfällt, da ihre Buchung hier direkt an die Schulleitung weitergeleitet wird.
+
+.. image:: /bilder/webuntis/5.png
+
+1. Wählen Sie das Datum und die Uhrzeit und gegebenenfalls den entsprechenden Intervall, wenn es sich um eine sich wiederholende Buchung handelt. Standardmäßig ist hier "einmalig" voreingestellt.
+
+.. important:: Unterricht, den sie immer in z.B. einem der Computerräume abhalten, müssen Sie nicht selbst buchen. Die Räume sind bereits für Sie gebucht (sollten es sein), wie Sie in der Übersicht zu ihrem Stundenplan erkennen können.
+
+2. Sie müssen nach der Eingabe das gewünschten Datums keine weitere Auswahl treffen. Die verschiedenen Drop-down-Menus im unteren Bereich der Seite können Sie ignorieren. Klicken Sie auf "Suchen". Im nächsten Schritt werden Ihnen alle Räume angezeigt, die zu
+der von Ihnen gewählten Zeit verfügbar sind.
+
+.. image:: /bilder/webuntis/5a.png
+
+Sie sollten jetzt eine Auswahl aller Räume sehen, die zu der von Ihnen gewählten Uhrzeit frei sind.
+
+.. image:: /bilder/webuntis/5b.png
+
+1. Setzen Sie ein Häkchen neben dem gewünschten Raum
+
+2. Klicken Sie "weiter", wenn sie sicher sind, dass sie den richtigen Raum ausgewählt haben.
+
+.. important:: Bitte beachten Sie: Bleibt das Auswahlfenster leer, ist zu der von Ihnen gewünschten Uhrzeit kein Raum verfügbar!
+
+1. Im letzten Schritt geben Sie bitte unter "Klasse" die Klasse an, mit der Sie den Raum benutzen.
+2. Geben Sie unter "Bemerkungen" weitere Informationen an.
+3. Sie können zum Schluss noch auswählen, ob Sie bei einer Statusänderung ihre Buchung eine Mail erhalten wollen, oder ob sie einen bestimmten Kollegen über die Buchung informieren möchten.
+4. Wenn Sie auf "speichern" klicken, ist der Raum gebucht.
+
+.. image:: /bilder/webuntis/5c.png
+
+Zum Abschluss wird Ihnen noch eine Zusammenfassung Ihrer soeben getätigten Buchung angezeigt, die Sie sich mit einem Kick auf "pdf" auch herunterladen können (1.), wenn Sie das möchten.
+Ansonsten klicken Sie auf "Schließen", um zurück auf die Startseite zu gelangen.
+
+.. image:: /bilder/webuntis/5d.png
+
+Sollte Ihnen bei der Buchung ein Fehler unterlaufen sein oder Ihnen ist aufgefallen, dass die den Raum doch nicht buchen möchten, können Sie eine Buchung auch wieder ändern oder ganz rückgängig machen.
+
+.. important:: Bitte beachten Sie, dass sie einen Raum nur dann buchen, wenn Sie ihn auch benutzen möchten. Geben Sie einen Raum, den sie gebucht haben aber nicht verwenden wollen, bitte wieder frei, damit anderen Kollegen dieser Raum wieder zur Verfüfung steht. Einen Raum zu blockieren, ist egoistisch.
+
+
+Klicken Sie hierzu im Bereich "Buchen" auf der Startseite auf "Meine Buchungen". Sie gelangen zu folgender Seite, auf der Sie Ihre Buchungen bearbeiten können.
+
+.. image:: /bilder/webuntis/5e.png
+
+1. Haben Sie sehr viele Buchungen vorgenommen, suchen Sie hier nach der entsprechenden Buchung. Dazu klicken Sie auf den kleinen Trichter neben der Schaltfläche "Suche ausführen". Es öffnet sich ein Pop-up-Fenster,
+in dem Sie verschiedene Möglichkeiten haben, die gesuchte Buchung zu finden (Raum, Zeit etc.).
+Ansonsten sehen Sie eine Liste ihrer Buchungen.
+2. In der zweiten Spalte haben Sie die Möglichkeit, einen Buchung zu bearbeiten. Ein Klick auf das Stiftsymbol und Sie können die Buchung ändern. Mit einem Klick auf das rote X und Sie können die Buchung löschen.
+Vor der endgültigen Löschung werden Sie zur Bestätigung der Löschung aufgefordert.
+
+.. image:: /bilder/webuntis/5f.png
+
+Klicken Sie auf "ok", um die Buchung endgültig zu löschen.
+
+.. _nachrichten:
+
+4. Meine Nachrichten
+^^^^^^^^^^^^^^^^^^^^^
+
+
+.. _profil:
+
+5. Benutzername (Profil)
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+.. _abmelden:
+
+6. Abmelden
+^^^^^^^^^^^^^^
+
+
+.. _tagesnachrichten:
+
+7. Tagesnachrichten
+^^^^^^^^^^^^^^^^^^^^
