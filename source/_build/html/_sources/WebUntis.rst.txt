@@ -44,8 +44,7 @@ mit ihren herkömmlichen Anmeldedaten anmelden und schon kann es losgehen.
 Arbeiten mit WebUntis
 -----------------------
 
-Wenn Sie sich angemeldet haben, gelangen Sie zu einer Übersichts-Seite, über die alle Funktionen von WebUntis erreichbar sind. Wenn Sie auf eine der Schaltflächen
-1 bis 3 klicken, öffnet sich ein Drop-down Menu, der Ihnen verschiedenen Optionen anbietet.
+Wenn Sie sich angemeldet haben, gelangen Sie zu einer Übersichts-Seite, über die alle Funktionen von WebUntis erreichbar sind. Wenn Sie auf eine der Schaltflächen 1 bis 3 klicken, öffnet sich ein Drop-down Menu, der Ihnen verschiedenen Optionen anbietet.
 
 
 .. image:: /bilder/webuntis/2a.png
@@ -53,7 +52,7 @@ Wenn Sie sich angemeldet haben, gelangen Sie zu einer Übersichts-Seite, über d
 
 
 
-1. :ref: `stundenplan` <Stundenplan>
+1. :ref:`stundenplan`
 
 
 
