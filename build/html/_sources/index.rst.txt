@@ -15,6 +15,7 @@ Willkommen zum Leitfaden zur Benutzung des Netzwerks!
    Die Schulkonsole
    WebUntis
    Verwendung der Ubuntu-Rechner
+   Verwendung der Rechner in den Klassenzimmern
    Verwendung der Schullaptops
    Benutzung der Beamer im Klassenzimmer
    Zugriff auf die Schuldateien von zuhause Horde
