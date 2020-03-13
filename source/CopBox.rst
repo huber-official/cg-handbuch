@@ -633,6 +633,8 @@ Klicken Sie auf den schwarzen Briefumschlage, und geben Sie dazu in das erschein
 
 Mit "Talk" kann man mit anderen Benutzer der Copbox in Kontakt treten. Es handelt sich hierbei um eine Art Messenger, für den es sogar ein App fürs Smartphone gibt (zumindest für Anroid). Sogar Videokonferenzen sollen damit möglich sein, was ich aber noch nicht ausprobiert habe. Man kann hier auch Gruppenchats einrichten. 
 
+.. image:: /bilder/cloud/talk-app/1-talk.png
+
 
 .. _audio-player-sk:
 
