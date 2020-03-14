@@ -12,7 +12,7 @@ Willkommen zum Leitfaden zur Benutzung des Netzwerks!
    Vorwort
    An-und Abmelden
    Hinweis zum Speichern von Dateien
-   Copbox
+   CopBox
    Die Schulkonsole
    WebUntis
    Verwendung der Ubuntu-Rechner
