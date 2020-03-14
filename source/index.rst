@@ -12,6 +12,7 @@ Willkommen zum Leitfaden zur Benutzung des Netzwerks!
    Vorwort
    An-und Abmelden
    Hinweis zum Speichern von Dateien
+   Die Copbox
    Die Schulkonsole
    WebUntis
    Verwendung der Ubuntu-Rechner
@@ -23,7 +24,6 @@ Willkommen zum Leitfaden zur Benutzung des Netzwerks!
    Computer überwachen mit iTalc oder Epoptes
    Benutzung des Wlan
    Hinweise zum Drucken
-   CopBox
    Feedback und Fehlermeldungen - Flyspray
    LICENSE
 
