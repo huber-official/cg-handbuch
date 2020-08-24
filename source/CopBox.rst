@@ -233,9 +233,9 @@ Das hier beschriebene Verfahren bietet eine Möglichkeit, zumindest den Zugriff 
 
 5. [Optional] Ablaufdatum setzen: Setzen Sie ein Ablaufdatum, ist der Link nur bis zu diesem Datum verwendbar. So können Sie die Zeit für die Rückmeldung der Schülerergebnisse pädagogisch begrenzen.
 
-6. Klicken Sie anschließend auf das Symbol direkt links neben den drei Punkte, auf die sie in Schritt 3 geklickt haben. Das Symbol wird zu einem grünen Haken. Das heißt, dass der Link in die Zwischenablage kopiert wurde.
+6. Klicken Sie anschließend auf das Symbol direkt links neben den drei Punkten, auf die sie in Schritt 3 geklickt haben. Das Symbol wird zu einem grünen Haken. Das heißt, dass der Link in die Zwischenablage kopiert wurde.
 
-7. Fügen Sie den Link in ihr Aufgabenblatt ein, verschicken Sie ihn per Rocket.chat, per Mail oder sonstwie. Die Schüler können nur ihre Rückmeldung unter Verwendung des Links in den von Ihnen erstellten Ordner laden, ohne dass die Dateien der andere sehen oder verändern können.
+7. Fügen Sie den Link in ihr Aufgabenblatt ein, verschicken Sie ihn per Rocket.chat, per Mail oder sonstwie. Die Schüler können nun ihre Rückmeldung unter Verwendung des Links in den von Ihnen erstellten Ordner laden, ohne dass sie die Dateien der anderen sehen oder verändern können.
 
 Eine Einstellung, die vllt. noch interessant sein könnte, ist das Einstellen eines Ablaufdatums für den Link. So kann man gewährleisten, dass die Schüler ihre Arbeiten bis zu einem bestimmten Termin hochladen. Nach dem Ablauf-Datum funktioniert der Link nämlich nicht mehr.
 
