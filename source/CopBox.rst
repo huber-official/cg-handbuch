@@ -217,7 +217,7 @@ verbergen, die Möglichkeit, die Teilung wieder rückkgängig zu machen. Klicken
 Das geteilte Objekt verschwindet daraufhin aus dem Cloudverzeichnis der Person(en), mit der Sie es geteilt haben.
 
 
-Anonymen Upload für Rückmeldungen der Schülern
+Anonymen Upload für Rückmeldungen der Schüler
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Die Übersichtlichkeit bei vielen Rückmeldungen der Schüler leidet schnell. Außerdem können die Schüler die Rückmeldungen der anderen sehen, was man nicht unbedingt möchte.
