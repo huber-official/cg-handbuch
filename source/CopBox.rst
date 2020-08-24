@@ -237,8 +237,6 @@ Das hier beschriebene Verfahren bietet eine Möglichkeit, zumindest den Zugriff 
 
 7. Fügen Sie den Link in ihr Aufgabenblatt ein, verschicken Sie ihn per Rocket.chat, per Mail oder sonstwie. Die Schüler können nun ihre Rückmeldung unter Verwendung des Links in den von Ihnen erstellten Ordner laden, ohne dass sie die Dateien der anderen sehen oder verändern können.
 
-Eine Einstellung, die vllt. noch interessant sein könnte, ist das Einstellen eines Ablaufdatums für den Link. So kann man gewährleisten, dass die Schüler ihre Arbeiten bis zu einem bestimmten Termin hochladen. Nach dem Ablauf-Datum funktioniert der Link nämlich nicht mehr.
-
 
 Gelöschte Dateien
 ^^^^^^^^^^^^^^^^^^
