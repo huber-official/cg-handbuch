@@ -217,6 +217,27 @@ verbergen, die Möglichkeit, die Teilung wieder rückkgängig zu machen. Klicken
 Das geteilte Objekt verschwindet daraufhin aus dem Cloudverzeichnis der Person(en), mit der Sie es geteilt haben.
 
 
+Anonymen Upload für Rückmeldungen der Schülern
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Die Übersichtlichkeit bei vielen Rückmeldungen der Schüler leidet schnell. Außerdem können die Schüler die Rückmeldungen der anderen sehen, was man nicht unbedingt möchte.
+Das hier beschriebene Verfahren bietet eine Möglichkeit, zumindest den Zugriff der Schüler auf die Dateien der anderen Schüler zu unterbinden.
+
+1. Legen Sie einen Ordner an (zum Beispiel mit dem Namen "7a-KW34-Rückmeldung-Deutsch").
+
+2. Klicken Sie auf der "Teilen-Symbol".
+
+3. Klicken Sie auf die Punkte ganz rechts neben dem Eintrag "Link teilen"
+
+4. Wählen Sie in dem sich öffnenden Menu die Punkte "Dateien nur ablegen (nur Hochladen)" und "Download" verbergen.
+
+5. Klicken Sie anschließend auf das Symbol direkt links neben den drei Punkte, auf die sie in Schritt 3 geklickt haben. Das Symbol wird zu einem grünen Haken. Das heißt, dass der Link in die Zwischenablage kopiert wurde.
+
+6. Fügen Sie den Link in ihr Aufgabenblatt ein, verschicken Sie ihn per Rocket.chat, per Mail oder sonstwie. Die Schüler können nur ihre Rückmeldung unter Verwendung des Links in den von Ihnen erstellten Ordner laden, ohne dass die Dateien der andere sehen oder verändern können.
+
+Eine Einstellung, die vllt. noch interessant sein könnte, ist das Einstellen eines Ablaufdatums für den Link. So kann man gewährleisten, dass die Schüler ihre Arbeiten bis zu einem bestimmten Termin hochladen. Nach dem Ablauf-Datum funktioniert der Link nämlich nicht mehr.
+
+
 Gelöschte Dateien
 ^^^^^^^^^^^^^^^^^^
 
